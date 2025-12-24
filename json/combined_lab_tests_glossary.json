@@ -1,0 +1,4554 @@
+{
+  "metadata": {
+    "title": "Combined Lab Tests Glossary",
+    "description": "Comprehensive glossary of all laboratory tests with test groups, attributes, ranges, and units",
+    "version": "1.0",
+    "createdAt": "2025-12-22",
+    "totalFiles": 5,
+    "totalTestGroups": 44,
+    "totalTests": 315
+  },
+  "testGroups": [
+    {
+      "groupName": "ACID BASE (ARTERIAL)",
+      "totalTests": 6,
+      "description": "Laboratory tests for ACID BASE (ARTERIAL)"
+    },
+    {
+      "groupName": "ACID BASE (VENOUS)",
+      "totalTests": 4,
+      "description": "Laboratory tests for ACID BASE (VENOUS)"
+    },
+    {
+      "groupName": "ADRENAL HORMONES",
+      "totalTests": 6,
+      "description": "Laboratory tests for ADRENAL HORMONES"
+    },
+    {
+      "groupName": "ALLERGY - SPECIFIC IgE",
+      "totalTests": 31,
+      "description": "Laboratory tests for ALLERGY - SPECIFIC IgE"
+    },
+    {
+      "groupName": "ARTHRITIS",
+      "totalTests": 3,
+      "description": "Laboratory tests for ARTHRITIS"
+    },
+    {
+      "groupName": "AUTOIMMUNE",
+      "totalTests": 12,
+      "description": "Laboratory tests for AUTOIMMUNE"
+    },
+    {
+      "groupName": "BODY FLUIDS",
+      "totalTests": 2,
+      "description": "Laboratory tests for BODY FLUIDS"
+    },
+    {
+      "groupName": "BONE METABOLISM",
+      "totalTests": 4,
+      "description": "Laboratory tests for BONE METABOLISM"
+    },
+    {
+      "groupName": "CARDIAC MARKERS",
+      "totalTests": 10,
+      "description": "Laboratory tests for CARDIAC MARKERS"
+    },
+    {
+      "groupName": "COAGULATION",
+      "totalTests": 5,
+      "description": "Laboratory tests for COAGULATION"
+    },
+    {
+      "groupName": "COAGULATION EXTENDED",
+      "totalTests": 7,
+      "description": "Laboratory tests for COAGULATION EXTENDED"
+    },
+    {
+      "groupName": "DIABETES",
+      "totalTests": 7,
+      "description": "Laboratory tests for DIABETES"
+    },
+    {
+      "groupName": "ELECTROLYTES",
+      "totalTests": 2,
+      "description": "Laboratory tests for ELECTROLYTES"
+    },
+    {
+      "groupName": "ELECTROPHORESIS",
+      "totalTests": 5,
+      "description": "Laboratory tests for ELECTROPHORESIS"
+    },
+    {
+      "groupName": "ENZYMES",
+      "totalTests": 4,
+      "description": "Laboratory tests for ENZYMES"
+    },
+    {
+      "groupName": "FERTILITY (FEMALE)",
+      "totalTests": 15,
+      "description": "Laboratory tests for FERTILITY (FEMALE)"
+    },
+    {
+      "groupName": "FERTILITY (MALE)",
+      "totalTests": 5,
+      "description": "Laboratory tests for FERTILITY (MALE)"
+    },
+    {
+      "groupName": "FLOW CYTOMETRY",
+      "totalTests": 6,
+      "description": "Laboratory tests for FLOW CYTOMETRY"
+    },
+    {
+      "groupName": "HEAVY METALS",
+      "totalTests": 9,
+      "description": "Laboratory tests for HEAVY METALS"
+    },
+    {
+      "groupName": "HEMATOLOGY",
+      "totalTests": 24,
+      "description": "Laboratory tests for HEMATOLOGY"
+    },
+    {
+      "groupName": "INFECTIOUS DISEASE",
+      "totalTests": 18,
+      "description": "Laboratory tests for INFECTIOUS DISEASE"
+    },
+    {
+      "groupName": "IRON STUDIES",
+      "totalTests": 3,
+      "description": "Laboratory tests for IRON STUDIES"
+    },
+    {
+      "groupName": "IRON/ANEMIA EXTENDED",
+      "totalTests": 6,
+      "description": "Laboratory tests for IRON/ANEMIA EXTENDED"
+    },
+    {
+      "groupName": "LIPID PROFILE",
+      "totalTests": 6,
+      "description": "Laboratory tests for LIPID PROFILE"
+    },
+    {
+      "groupName": "LIVER PROFILE",
+      "totalTests": 12,
+      "description": "Laboratory tests for LIVER PROFILE"
+    },
+    {
+      "groupName": "MISC",
+      "totalTests": 4,
+      "description": "Laboratory tests for MISC"
+    },
+    {
+      "groupName": "MOLECULAR / PCR",
+      "totalTests": 3,
+      "description": "Laboratory tests for MOLECULAR / PCR"
+    },
+    {
+      "groupName": "OTHER ENZYMES",
+      "totalTests": 4,
+      "description": "Laboratory tests for OTHER ENZYMES"
+    },
+    {
+      "groupName": "PANCREAS",
+      "totalTests": 2,
+      "description": "Laboratory tests for PANCREAS"
+    },
+    {
+      "groupName": "PANCREAS EXTENDED",
+      "totalTests": 1,
+      "description": "Laboratory tests for PANCREAS EXTENDED"
+    },
+    {
+      "groupName": "PITUITARY/GROWTH",
+      "totalTests": 2,
+      "description": "Laboratory tests for PITUITARY/GROWTH"
+    },
+    {
+      "groupName": "PROTEINS",
+      "totalTests": 4,
+      "description": "Laboratory tests for PROTEINS"
+    },
+    {
+      "groupName": "RENAL PROFILE",
+      "totalTests": 11,
+      "description": "Laboratory tests for RENAL PROFILE"
+    },
+    {
+      "groupName": "SEROLOGY",
+      "totalTests": 8,
+      "description": "Laboratory tests for SEROLOGY"
+    },
+    {
+      "groupName": "SPECIAL",
+      "totalTests": 11,
+      "description": "Laboratory tests for SPECIAL"
+    },
+    {
+      "groupName": "SPECIFIC PROTEINS",
+      "totalTests": 7,
+      "description": "Laboratory tests for SPECIFIC PROTEINS"
+    },
+    {
+      "groupName": "THERAPEUTIC DRUGS",
+      "totalTests": 14,
+      "description": "Laboratory tests for THERAPEUTIC DRUGS"
+    },
+    {
+      "groupName": "THYROID",
+      "totalTests": 3,
+      "description": "Laboratory tests for THYROID"
+    },
+    {
+      "groupName": "THYROID EXTENDED",
+      "totalTests": 5,
+      "description": "Laboratory tests for THYROID EXTENDED"
+    },
+    {
+      "groupName": "TOXICOLOGY",
+      "totalTests": 1,
+      "description": "Laboratory tests for TOXICOLOGY"
+    },
+    {
+      "groupName": "TUMOR MARKERS",
+      "totalTests": 9,
+      "description": "Laboratory tests for TUMOR MARKERS"
+    },
+    {
+      "groupName": "URINE ANALYSIS",
+      "totalTests": 6,
+      "description": "Laboratory tests for URINE ANALYSIS"
+    },
+    {
+      "groupName": "VITAMINS",
+      "totalTests": 2,
+      "description": "Laboratory tests for VITAMINS"
+    },
+    {
+      "groupName": "VITAMINS EXTENDED",
+      "totalTests": 6,
+      "description": "Laboratory tests for VITAMINS EXTENDED"
+    }
+  ],
+  "testsGlossary": {
+    "byGroup": {
+      "ACID BASE (ARTERIAL)": {
+        "groupName": "ACID BASE (ARTERIAL)",
+        "tests": [
+          {
+            "testAttributeName": "ABG - pH",
+            "minRange": 7.35,
+            "maxRange": 7.45,
+            "unit": "pH"
+          },
+          {
+            "testAttributeName": "ABG - pCO2",
+            "minRange": 35,
+            "maxRange": 45,
+            "unit": "mmHg"
+          },
+          {
+            "testAttributeName": "ABG - pO2",
+            "minRange": 80,
+            "maxRange": 100,
+            "unit": "mmHg"
+          },
+          {
+            "testAttributeName": "ABG - HCO3",
+            "minRange": 22,
+            "maxRange": 26,
+            "unit": "mmol/L"
+          },
+          {
+            "testAttributeName": "ABG - O2 Saturation",
+            "minRange": 95,
+            "maxRange": 100,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "ABG - Base Excess",
+            "minRange": -2,
+            "maxRange": 2,
+            "unit": "mmol/L"
+          }
+        ]
+      },
+      "ACID BASE (VENOUS)": {
+        "groupName": "ACID BASE (VENOUS)",
+        "tests": [
+          {
+            "testAttributeName": "VBG - pH",
+            "minRange": 7.31,
+            "maxRange": 7.41,
+            "unit": "pH"
+          },
+          {
+            "testAttributeName": "VBG - pCO2",
+            "minRange": 41,
+            "maxRange": 51,
+            "unit": "mmHg"
+          },
+          {
+            "testAttributeName": "VBG - HCO3",
+            "minRange": 23,
+            "maxRange": 29,
+            "unit": "mmol/L"
+          },
+          {
+            "testAttributeName": "Lactate (Plasma)",
+            "minRange": 0.5,
+            "maxRange": 2.2,
+            "unit": "mmol/L"
+          }
+        ]
+      },
+      "ADRENAL HORMONES": {
+        "groupName": "ADRENAL HORMONES",
+        "tests": [
+          {
+            "testAttributeName": "Cortisol (Morning 8AM)",
+            "minRange": 6.0,
+            "maxRange": 18.4,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Cortisol (Evening 4PM)",
+            "minRange": 2.7,
+            "maxRange": 10.5,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "ACTH",
+            "minRange": 7.2,
+            "maxRange": 63.3,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "DHEAS (Male)",
+            "minRange": 80,
+            "maxRange": 560,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "DHEAS (Female)",
+            "minRange": 35,
+            "maxRange": 430,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Aldosterone (Upright)",
+            "minRange": 4.0,
+            "maxRange": 31.0,
+            "unit": "ng/dL"
+          }
+        ]
+      },
+      "ALLERGY - SPECIFIC IgE": {
+        "groupName": "ALLERGY - SPECIFIC IgE",
+        "tests": [
+          {
+            "testAttributeName": "Specific IgE - Dermatophagoides pteronyssinus (d1)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Dermatophagoides farinae (d2)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Cat Dander (e1)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Dog Dander (e5)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Egg White (f1)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Milk (f2)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Cod Fish (f3)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Wheat (f4)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Peanut (f13)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Soybean (f14)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Hazelnut (f17)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Crab (f23)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Shrimp (f24)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Tomato (f25)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Pork (f26)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Beef (f27)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Coconut (f36)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Strawberry (f44)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Gluten (f79)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Chocolate (f93)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Cockroach (i6)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Penicillium notatum (m1)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Cladosporium herbarum (m2)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Aspergillus fumigatus (m3)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Candida albicans (m5)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Alternaria alternata (m6)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Bermuda Grass (g2)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Timothy Grass (g6)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Common Ragweed (w1)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Mugwort (w6)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          },
+          {
+            "testAttributeName": "Specific IgE - Latex (k82)",
+            "minRange": 0.0,
+            "maxRange": 0.35,
+            "unit": "kU/L"
+          }
+        ]
+      },
+      "ARTHRITIS": {
+        "groupName": "ARTHRITIS",
+        "tests": [
+          {
+            "testAttributeName": "RA Factor (Quantitative)",
+            "minRange": 0,
+            "maxRange": 14,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "ASO Titer",
+            "minRange": 0,
+            "maxRange": 200,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "CRP (Quantitative)",
+            "minRange": 0.0,
+            "maxRange": 6.0,
+            "unit": "mg/L"
+          }
+        ]
+      },
+      "AUTOIMMUNE": {
+        "groupName": "AUTOIMMUNE",
+        "tests": [
+          {
+            "testAttributeName": "ANA (IFA Titre)",
+            "minRange": 0,
+            "maxRange": 80,
+            "unit": "Titer"
+          },
+          {
+            "testAttributeName": "Anti-dsDNA",
+            "minRange": 0,
+            "maxRange": 30,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "Anti-CCP",
+            "minRange": 0,
+            "maxRange": 17,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "C3 Complement",
+            "minRange": 90,
+            "maxRange": 180,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "C4 Complement",
+            "minRange": 10,
+            "maxRange": 40,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "ANCA - cANCA (PR3)",
+            "minRange": 0.0,
+            "maxRange": 3.5,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "ANCA - pANCA (MPO)",
+            "minRange": 0.0,
+            "maxRange": 5.0,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "Anti-Cardiolipin IgG",
+            "minRange": 0,
+            "maxRange": 10,
+            "unit": "GPL"
+          },
+          {
+            "testAttributeName": "Anti-Cardiolipin IgM",
+            "minRange": 0,
+            "maxRange": 10,
+            "unit": "MPL"
+          },
+          {
+            "testAttributeName": "Anti-Nuclear Antibody (ELISA)",
+            "minRange": 0.0,
+            "maxRange": 1.0,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "AMA (Antimitochondrial)",
+            "minRange": 0,
+            "maxRange": 20,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "ASMA (Smooth Muscle)",
+            "minRange": 0,
+            "maxRange": 20,
+            "unit": "Titer"
+          }
+        ]
+      },
+      "BODY FLUIDS": {
+        "groupName": "BODY FLUIDS",
+        "tests": [
+          {
+            "testAttributeName": "CSF Glucose",
+            "minRange": 40,
+            "maxRange": 70,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "CSF Protein",
+            "minRange": 15,
+            "maxRange": 45,
+            "unit": "mg/dL"
+          }
+        ]
+      },
+      "BONE METABOLISM": {
+        "groupName": "BONE METABOLISM",
+        "tests": [
+          {
+            "testAttributeName": "Parathyroid Hormone (PTH)",
+            "minRange": 15,
+            "maxRange": 65,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Calcitonin",
+            "minRange": 0.0,
+            "maxRange": 8.4,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Osteocalcin",
+            "minRange": 11,
+            "maxRange": 43,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Vitamin D 1,25 Dihydroxy",
+            "minRange": 19.9,
+            "maxRange": 79.3,
+            "unit": "pg/mL"
+          }
+        ]
+      },
+      "CARDIAC MARKERS": {
+        "groupName": "CARDIAC MARKERS",
+        "tests": [
+          {
+            "testAttributeName": "Troponin I (Quantitative)",
+            "minRange": 0.0,
+            "maxRange": 0.04,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Troponin T (hs-cTnT)",
+            "minRange": 0.0,
+            "maxRange": 14.0,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "CK-MB Mass",
+            "minRange": 0.0,
+            "maxRange": 5.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "NT-proBNP",
+            "minRange": 0,
+            "maxRange": 125,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Homocysteine",
+            "minRange": 5,
+            "maxRange": 15,
+            "unit": "µmol/L"
+          },
+          {
+            "testAttributeName": "Myoglobin",
+            "minRange": 0,
+            "maxRange": 85,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "hs-CRP",
+            "minRange": 0.0,
+            "maxRange": 1.0,
+            "unit": "mg/L"
+          },
+          {
+            "testAttributeName": "Lipoprotein (a)",
+            "minRange": 0,
+            "maxRange": 30,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Apolipoprotein A1",
+            "minRange": 110,
+            "maxRange": 205,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Apolipoprotein B",
+            "minRange": 55,
+            "maxRange": 140,
+            "unit": "mg/dL"
+          }
+        ]
+      },
+      "COAGULATION": {
+        "groupName": "COAGULATION",
+        "tests": [
+          {
+            "testAttributeName": "Prothrombin Time (PT)",
+            "minRange": 11.0,
+            "maxRange": 13.5,
+            "unit": "Sec"
+          },
+          {
+            "testAttributeName": "INR",
+            "minRange": 0.9,
+            "maxRange": 1.1,
+            "unit": "Ratio"
+          },
+          {
+            "testAttributeName": "APTT",
+            "minRange": 26,
+            "maxRange": 36,
+            "unit": "Sec"
+          },
+          {
+            "testAttributeName": "Bleeding Time",
+            "minRange": 2,
+            "maxRange": 7,
+            "unit": "Min"
+          },
+          {
+            "testAttributeName": "Clotting Time",
+            "minRange": 4,
+            "maxRange": 9,
+            "unit": "Min"
+          }
+        ]
+      },
+      "COAGULATION EXTENDED": {
+        "groupName": "COAGULATION EXTENDED",
+        "tests": [
+          {
+            "testAttributeName": "Fibrinogen",
+            "minRange": 200,
+            "maxRange": 400,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "D-Dimer",
+            "minRange": 0,
+            "maxRange": 500,
+            "unit": "ng/mL FEU"
+          },
+          {
+            "testAttributeName": "Protein C Activity",
+            "minRange": 70,
+            "maxRange": 140,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Protein S Activity",
+            "minRange": 60,
+            "maxRange": 130,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Antithrombin III",
+            "minRange": 80,
+            "maxRange": 120,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Factor VIII Activity",
+            "minRange": 50,
+            "maxRange": 150,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Lupus Anticoagulant (DRVVT)",
+            "minRange": 0.8,
+            "maxRange": 1.2,
+            "unit": "Ratio"
+          }
+        ]
+      },
+      "DIABETES": {
+        "groupName": "DIABETES",
+        "tests": [
+          {
+            "testAttributeName": "Fasting Blood Glucose (FBS)",
+            "minRange": 70,
+            "maxRange": 100,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Post Prandial Glucose (PPBS)",
+            "minRange": 70,
+            "maxRange": 140,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Random Blood Glucose",
+            "minRange": 70,
+            "maxRange": 140,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "HbA1c",
+            "minRange": 4.0,
+            "maxRange": 5.6,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Insulin (Fasting)",
+            "minRange": 2.6,
+            "maxRange": 24.9,
+            "unit": "µU/mL"
+          },
+          {
+            "testAttributeName": "C-Peptide (Fasting)",
+            "minRange": 1.1,
+            "maxRange": 4.4,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Estimated Avg Glucose (eAG)",
+            "minRange": 90,
+            "maxRange": 120,
+            "unit": "mg/dL"
+          }
+        ]
+      },
+      "ELECTROLYTES": {
+        "groupName": "ELECTROLYTES",
+        "tests": [
+          {
+            "testAttributeName": "Magnesium",
+            "minRange": 1.7,
+            "maxRange": 2.2,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Ionized Calcium",
+            "minRange": 4.5,
+            "maxRange": 5.6,
+            "unit": "mg/dL"
+          }
+        ]
+      },
+      "ELECTROPHORESIS": {
+        "groupName": "ELECTROPHORESIS",
+        "tests": [
+          {
+            "testAttributeName": "Albumin (Electrophoresis)",
+            "minRange": 55,
+            "maxRange": 68,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Alpha-1 Globulin",
+            "minRange": 2,
+            "maxRange": 5,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Alpha-2 Globulin",
+            "minRange": 6,
+            "maxRange": 12,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Beta Globulin",
+            "minRange": 8,
+            "maxRange": 14,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Gamma Globulin",
+            "minRange": 12,
+            "maxRange": 20,
+            "unit": "%"
+          }
+        ]
+      },
+      "ENZYMES": {
+        "groupName": "ENZYMES",
+        "tests": [
+          {
+            "testAttributeName": "CPK - Total (Male)",
+            "minRange": 55,
+            "maxRange": 170,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "CPK - Total (Female)",
+            "minRange": 30,
+            "maxRange": 135,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "LDH (Lactate Dehydrogenase)",
+            "minRange": 140,
+            "maxRange": 280,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "Acid Phosphatase (Total)",
+            "minRange": 0,
+            "maxRange": 9,
+            "unit": "U/L"
+          }
+        ]
+      },
+      "FERTILITY (FEMALE)": {
+        "groupName": "FERTILITY (FEMALE)",
+        "tests": [
+          {
+            "testAttributeName": "FSH (Follicular)",
+            "minRange": 3.5,
+            "maxRange": 12.5,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "FSH (Mid-Cycle)",
+            "minRange": 4.7,
+            "maxRange": 21.5,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "FSH (Luteal)",
+            "minRange": 1.7,
+            "maxRange": 7.7,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "FSH (Post-Menopause)",
+            "minRange": 25.8,
+            "maxRange": 134.8,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "LH (Follicular)",
+            "minRange": 2.4,
+            "maxRange": 12.6,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "LH (Mid-Cycle)",
+            "minRange": 14.0,
+            "maxRange": 95.6,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "LH (Luteal)",
+            "minRange": 1.0,
+            "maxRange": 11.4,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "LH (Post-Menopause)",
+            "minRange": 7.7,
+            "maxRange": 58.5,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "Prolactin (Non-Preg)",
+            "minRange": 4.8,
+            "maxRange": 23.3,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Estradiol (Follicular)",
+            "minRange": 12.5,
+            "maxRange": 166.0,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Estradiol (Ovulation)",
+            "minRange": 85.8,
+            "maxRange": 498.0,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Estradiol (Luteal)",
+            "minRange": 43.8,
+            "maxRange": 211.0,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Progesterone (Follicular)",
+            "minRange": 0.2,
+            "maxRange": 1.5,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Progesterone (Luteal)",
+            "minRange": 1.7,
+            "maxRange": 27.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "AMH",
+            "minRange": 2.2,
+            "maxRange": 6.8,
+            "unit": "ng/mL"
+          }
+        ]
+      },
+      "FERTILITY (MALE)": {
+        "groupName": "FERTILITY (MALE)",
+        "tests": [
+          {
+            "testAttributeName": "Testosterone Total (Male)",
+            "minRange": 249,
+            "maxRange": 836,
+            "unit": "ng/dL"
+          },
+          {
+            "testAttributeName": "Testosterone Free (Male)",
+            "minRange": 9.0,
+            "maxRange": 30.0,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "FSH (Male)",
+            "minRange": 1.5,
+            "maxRange": 12.4,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "LH (Male)",
+            "minRange": 1.7,
+            "maxRange": 8.6,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "Prolactin (Male)",
+            "minRange": 4.0,
+            "maxRange": 15.2,
+            "unit": "ng/mL"
+          }
+        ]
+      },
+      "FLOW CYTOMETRY": {
+        "groupName": "FLOW CYTOMETRY",
+        "tests": [
+          {
+            "testAttributeName": "CD3 Count (Total T Cells)",
+            "minRange": 900,
+            "maxRange": 2300,
+            "unit": "cells/µL"
+          },
+          {
+            "testAttributeName": "CD4 Count (Helper T Cells)",
+            "minRange": 500,
+            "maxRange": 1500,
+            "unit": "cells/µL"
+          },
+          {
+            "testAttributeName": "CD8 Count (Suppressor T Cells)",
+            "minRange": 300,
+            "maxRange": 1000,
+            "unit": "cells/µL"
+          },
+          {
+            "testAttributeName": "CD4/CD8 Ratio",
+            "minRange": 1.0,
+            "maxRange": 2.5,
+            "unit": "Ratio"
+          },
+          {
+            "testAttributeName": "CD19 Count (B Cells)",
+            "minRange": 100,
+            "maxRange": 500,
+            "unit": "cells/µL"
+          },
+          {
+            "testAttributeName": "CD56 Count (NK Cells)",
+            "minRange": 100,
+            "maxRange": 400,
+            "unit": "cells/µL"
+          }
+        ]
+      },
+      "HEAVY METALS": {
+        "groupName": "HEAVY METALS",
+        "tests": [
+          {
+            "testAttributeName": "Lead (Blood)",
+            "minRange": 0,
+            "maxRange": 5,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Mercury (Blood)",
+            "minRange": 0,
+            "maxRange": 10,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Arsenic (Blood)",
+            "minRange": 0,
+            "maxRange": 12,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Cadmium (Blood)",
+            "minRange": 0.0,
+            "maxRange": 1.2,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Copper (Serum)",
+            "minRange": 70,
+            "maxRange": 140,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Zinc (Serum)",
+            "minRange": 60,
+            "maxRange": 120,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Selenium (Serum)",
+            "minRange": 70,
+            "maxRange": 150,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Chromium (Serum)",
+            "minRange": 0.1,
+            "maxRange": 0.2,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Aluminum (Serum)",
+            "minRange": 0,
+            "maxRange": 10,
+            "unit": "µg/L"
+          }
+        ]
+      },
+      "HEMATOLOGY": {
+        "groupName": "HEMATOLOGY",
+        "tests": [
+          {
+            "testAttributeName": "Haemoglobin (Male)",
+            "minRange": 13.0,
+            "maxRange": 17.0,
+            "unit": "g/dL"
+          },
+          {
+            "testAttributeName": "Haemoglobin (Female)",
+            "minRange": 12.0,
+            "maxRange": 15.0,
+            "unit": "g/dL"
+          },
+          {
+            "testAttributeName": "Total Leucocyte Count (TLC)",
+            "minRange": 4.0,
+            "maxRange": 11.0,
+            "unit": "10^3/µL"
+          },
+          {
+            "testAttributeName": "Neutrophils",
+            "minRange": 40,
+            "maxRange": 75,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Lymphocytes",
+            "minRange": 20,
+            "maxRange": 45,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Monocytes",
+            "minRange": 2,
+            "maxRange": 10,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Eosinophils",
+            "minRange": 1,
+            "maxRange": 6,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Basophils",
+            "minRange": 0,
+            "maxRange": 1,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Platelet Count",
+            "minRange": 150,
+            "maxRange": 450,
+            "unit": "10^3/µL"
+          },
+          {
+            "testAttributeName": "RBC Count (Male)",
+            "minRange": 4.5,
+            "maxRange": 5.9,
+            "unit": "10^6/µL"
+          },
+          {
+            "testAttributeName": "RBC Count (Female)",
+            "minRange": 4.0,
+            "maxRange": 5.2,
+            "unit": "10^6/µL"
+          },
+          {
+            "testAttributeName": "PCV (Male)",
+            "minRange": 40,
+            "maxRange": 50,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "PCV (Female)",
+            "minRange": 36,
+            "maxRange": 46,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "MCV",
+            "minRange": 80,
+            "maxRange": 96,
+            "unit": "fL"
+          },
+          {
+            "testAttributeName": "MCH",
+            "minRange": 27,
+            "maxRange": 33,
+            "unit": "pg"
+          },
+          {
+            "testAttributeName": "MCHC",
+            "minRange": 32,
+            "maxRange": 36,
+            "unit": "g/dL"
+          },
+          {
+            "testAttributeName": "RDW-CV",
+            "minRange": 11.5,
+            "maxRange": 14.5,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "ESR (Westergren) - Male",
+            "minRange": 0,
+            "maxRange": 15,
+            "unit": "mm/1st hr"
+          },
+          {
+            "testAttributeName": "ESR (Westergren) - Female",
+            "minRange": 0,
+            "maxRange": 20,
+            "unit": "mm/1st hr"
+          },
+          {
+            "testAttributeName": "Absolute Neutrophil Count",
+            "minRange": 2000,
+            "maxRange": 7000,
+            "unit": "/µL"
+          },
+          {
+            "testAttributeName": "Absolute Lymphocyte Count",
+            "minRange": 1000,
+            "maxRange": 3000,
+            "unit": "/µL"
+          },
+          {
+            "testAttributeName": "Absolute Eosinophil Count",
+            "minRange": 40,
+            "maxRange": 440,
+            "unit": "/µL"
+          },
+          {
+            "testAttributeName": "Absolute Monocyte Count",
+            "minRange": 200,
+            "maxRange": 1000,
+            "unit": "/µL"
+          },
+          {
+            "testAttributeName": "Reticulocyte Count",
+            "minRange": 0.5,
+            "maxRange": 2.5,
+            "unit": "%"
+          }
+        ]
+      },
+      "INFECTIOUS DISEASE": {
+        "groupName": "INFECTIOUS DISEASE",
+        "tests": [
+          {
+            "testAttributeName": "Procalcitonin (Sepsis)",
+            "minRange": 0.0,
+            "maxRange": 0.5,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Hepatitis A IgM (HAV)",
+            "minRange": 0.0,
+            "maxRange": 0.8,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Hepatitis B Core IgM (Anti-HBc)",
+            "minRange": 0.0,
+            "maxRange": 1.0,
+            "unit": "S/CO"
+          },
+          {
+            "testAttributeName": "Hepatitis B Surface Antibody (Anti-HBs)",
+            "minRange": 10,
+            "maxRange": 1000,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "Hepatitis E IgM (HEV)",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "CMV IgG Avidity",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Rubella IgG",
+            "minRange": 0,
+            "maxRange": 10,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "Rubella IgM",
+            "minRange": 0.0,
+            "maxRange": 0.8,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Toxoplasma IgG",
+            "minRange": 0,
+            "maxRange": 8,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "Toxoplasma IgM",
+            "minRange": 0.0,
+            "maxRange": 0.8,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "HSV 1 IgG",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "HSV 2 IgG",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Syphilis (VDRL/RPR)",
+            "minRange": 0,
+            "maxRange": 1,
+            "unit": "Titer"
+          },
+          {
+            "testAttributeName": "Syphilis (TPHA)",
+            "minRange": 0,
+            "maxRange": 80,
+            "unit": "Titer"
+          },
+          {
+            "testAttributeName": "Chikungunya IgM",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Leptospira IgM",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Brucella Agglutination",
+            "minRange": 0,
+            "maxRange": 80,
+            "unit": "Titer"
+          },
+          {
+            "testAttributeName": "ASO Titer",
+            "minRange": 0,
+            "maxRange": 200,
+            "unit": "IU/mL"
+          }
+        ]
+      },
+      "IRON STUDIES": {
+        "groupName": "IRON STUDIES",
+        "tests": [
+          {
+            "testAttributeName": "Serum Iron",
+            "minRange": 60,
+            "maxRange": 170,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "TIBC",
+            "minRange": 240,
+            "maxRange": 450,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Transferrin Saturation",
+            "minRange": 20,
+            "maxRange": 50,
+            "unit": "%"
+          }
+        ]
+      },
+      "IRON/ANEMIA EXTENDED": {
+        "groupName": "IRON/ANEMIA EXTENDED",
+        "tests": [
+          {
+            "testAttributeName": "Ferritin (Male)",
+            "minRange": 20,
+            "maxRange": 250,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Ferritin (Female)",
+            "minRange": 10,
+            "maxRange": 120,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "UIBC",
+            "minRange": 110,
+            "maxRange": 370,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "Transferrin",
+            "minRange": 200,
+            "maxRange": 360,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Haptoglobin",
+            "minRange": 30,
+            "maxRange": 200,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Erythropoietin",
+            "minRange": 2.6,
+            "maxRange": 18.5,
+            "unit": "mIU/mL"
+          }
+        ]
+      },
+      "LIPID PROFILE": {
+        "groupName": "LIPID PROFILE",
+        "tests": [
+          {
+            "testAttributeName": "Total Cholesterol",
+            "minRange": 125,
+            "maxRange": 200,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Triglycerides",
+            "minRange": 50,
+            "maxRange": 150,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "HDL Cholesterol",
+            "minRange": 40,
+            "maxRange": 60,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "LDL Cholesterol",
+            "minRange": 50,
+            "maxRange": 100,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "VLDL Cholesterol",
+            "minRange": 5,
+            "maxRange": 40,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "TC/HDL Ratio",
+            "minRange": 3.0,
+            "maxRange": 5.0,
+            "unit": "Ratio"
+          }
+        ]
+      },
+      "LIVER PROFILE": {
+        "groupName": "LIVER PROFILE",
+        "tests": [
+          {
+            "testAttributeName": "Bilirubin Total",
+            "minRange": 0.3,
+            "maxRange": 1.2,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Bilirubin Direct",
+            "minRange": 0.0,
+            "maxRange": 0.3,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Bilirubin Indirect",
+            "minRange": 0.1,
+            "maxRange": 0.9,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "SGOT (AST)",
+            "minRange": 5,
+            "maxRange": 40,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "SGPT (ALT)",
+            "minRange": 7,
+            "maxRange": 56,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "Alkaline Phosphatase (ALP)",
+            "minRange": 44,
+            "maxRange": 147,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "Gamma GT (GGT) - Male",
+            "minRange": 8,
+            "maxRange": 61,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "Gamma GT (GGT) - Female",
+            "minRange": 5,
+            "maxRange": 36,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "Total Protein",
+            "minRange": 6.4,
+            "maxRange": 8.3,
+            "unit": "g/dL"
+          },
+          {
+            "testAttributeName": "Albumin",
+            "minRange": 3.5,
+            "maxRange": 5.2,
+            "unit": "g/dL"
+          },
+          {
+            "testAttributeName": "Globulin",
+            "minRange": 2.3,
+            "maxRange": 3.5,
+            "unit": "g/dL"
+          },
+          {
+            "testAttributeName": "A/G Ratio",
+            "minRange": 1.1,
+            "maxRange": 2.2,
+            "unit": "Ratio"
+          }
+        ]
+      },
+      "MISC": {
+        "groupName": "MISC",
+        "tests": [
+          {
+            "testAttributeName": "Semen Volume",
+            "minRange": 1.5,
+            "maxRange": 5.0,
+            "unit": "mL"
+          },
+          {
+            "testAttributeName": "Sperm Count",
+            "minRange": 15,
+            "maxRange": 200,
+            "unit": "millions/mL"
+          },
+          {
+            "testAttributeName": "Sperm Motility (Total)",
+            "minRange": 40,
+            "maxRange": 100,
+            "unit": "%"
+          },
+          {
+            "testAttributeName": "Semen pH",
+            "minRange": 7.2,
+            "maxRange": 8.0,
+            "unit": "pH"
+          }
+        ]
+      },
+      "MOLECULAR / PCR": {
+        "groupName": "MOLECULAR / PCR",
+        "tests": [
+          {
+            "testAttributeName": "HBV DNA Quantitative",
+            "minRange": 0,
+            "maxRange": 20,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "HCV RNA Quantitative",
+            "minRange": 0,
+            "maxRange": 15,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "HIV-1 RNA Viral Load",
+            "minRange": 0,
+            "maxRange": 20,
+            "unit": "Copies/mL"
+          }
+        ]
+      },
+      "OTHER ENZYMES": {
+        "groupName": "OTHER ENZYMES",
+        "tests": [
+          {
+            "testAttributeName": "Cholinesterase",
+            "minRange": 5300,
+            "maxRange": 12900,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "ACE (Angiotensin Converting)",
+            "minRange": 8,
+            "maxRange": 52,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "ADA (Adenosine Deaminase)",
+            "minRange": 0,
+            "maxRange": 40,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "G6PD (Qualitative/Index)",
+            "minRange": 4.6,
+            "maxRange": 13.5,
+            "unit": "U/g Hb"
+          }
+        ]
+      },
+      "PANCREAS": {
+        "groupName": "PANCREAS",
+        "tests": [
+          {
+            "testAttributeName": "Amylase (Serum)",
+            "minRange": 28,
+            "maxRange": 100,
+            "unit": "U/L"
+          },
+          {
+            "testAttributeName": "Lipase (Serum)",
+            "minRange": 13,
+            "maxRange": 60,
+            "unit": "U/L"
+          }
+        ]
+      },
+      "PANCREAS EXTENDED": {
+        "groupName": "PANCREAS EXTENDED",
+        "tests": [
+          {
+            "testAttributeName": "Pancreatic Amylase",
+            "minRange": 13,
+            "maxRange": 53,
+            "unit": "U/L"
+          }
+        ]
+      },
+      "PITUITARY/GROWTH": {
+        "groupName": "PITUITARY/GROWTH",
+        "tests": [
+          {
+            "testAttributeName": "Growth Hormone (Fasting)",
+            "minRange": 0.0,
+            "maxRange": 3.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "IGF-1",
+            "minRange": 115,
+            "maxRange": 307,
+            "unit": "ng/mL"
+          }
+        ]
+      },
+      "PROTEINS": {
+        "groupName": "PROTEINS",
+        "tests": [
+          {
+            "testAttributeName": "IgG Total",
+            "minRange": 700,
+            "maxRange": 1600,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "IgA Total",
+            "minRange": 70,
+            "maxRange": 400,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "IgM Total",
+            "minRange": 40,
+            "maxRange": 230,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "IgE Total",
+            "minRange": 0,
+            "maxRange": 100,
+            "unit": "IU/mL"
+          }
+        ]
+      },
+      "RENAL PROFILE": {
+        "groupName": "RENAL PROFILE",
+        "tests": [
+          {
+            "testAttributeName": "Blood Urea",
+            "minRange": 15,
+            "maxRange": 40,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Blood Urea Nitrogen (BUN)",
+            "minRange": 7,
+            "maxRange": 20,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Creatinine (Male)",
+            "minRange": 0.7,
+            "maxRange": 1.3,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Creatinine (Female)",
+            "minRange": 0.6,
+            "maxRange": 1.1,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Uric Acid (Male)",
+            "minRange": 3.4,
+            "maxRange": 7.0,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Uric Acid (Female)",
+            "minRange": 2.4,
+            "maxRange": 5.7,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Calcium (Total)",
+            "minRange": 8.6,
+            "maxRange": 10.2,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Phosphorus",
+            "minRange": 2.5,
+            "maxRange": 4.5,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Sodium",
+            "minRange": 136,
+            "maxRange": 145,
+            "unit": "mmol/L"
+          },
+          {
+            "testAttributeName": "Potassium",
+            "minRange": 3.5,
+            "maxRange": 5.1,
+            "unit": "mmol/L"
+          },
+          {
+            "testAttributeName": "Chloride",
+            "minRange": 98,
+            "maxRange": 107,
+            "unit": "mmol/L"
+          }
+        ]
+      },
+      "SEROLOGY": {
+        "groupName": "SEROLOGY",
+        "tests": [
+          {
+            "testAttributeName": "HBsAg (Quantitative Index)",
+            "minRange": 0.0,
+            "maxRange": 0.99,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "HCV (Quantitative Index)",
+            "minRange": 0.0,
+            "maxRange": 0.99,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "HIV 1&2 (Quantitative Index)",
+            "minRange": 0.0,
+            "maxRange": 0.99,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Dengue NS1 Antigen (Index)",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Dengue IgG (Index)",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Dengue IgM (Index)",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "Index"
+          },
+          {
+            "testAttributeName": "Widal (S. Typhi O)",
+            "minRange": 0,
+            "maxRange": 80,
+            "unit": "Titer"
+          },
+          {
+            "testAttributeName": "Widal (S. Typhi H)",
+            "minRange": 0,
+            "maxRange": 80,
+            "unit": "Titer"
+          }
+        ]
+      },
+      "SPECIAL": {
+        "groupName": "SPECIAL",
+        "tests": [
+          {
+            "testAttributeName": "Osmolality (Serum)",
+            "minRange": 275,
+            "maxRange": 295,
+            "unit": "mOsm/kg"
+          },
+          {
+            "testAttributeName": "Osmolality (Urine)",
+            "minRange": 300,
+            "maxRange": 900,
+            "unit": "mOsm/kg"
+          },
+          {
+            "testAttributeName": "Metanephrines (Plasma)",
+            "minRange": 0,
+            "maxRange": 90,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Normetanephrines (Plasma)",
+            "minRange": 0,
+            "maxRange": 180,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "VMA (Urine 24h)",
+            "minRange": 0,
+            "maxRange": 13.6,
+            "unit": "mg/24h"
+          },
+          {
+            "testAttributeName": "5-HIAA (Urine 24h)",
+            "minRange": 2,
+            "maxRange": 8,
+            "unit": "mg/24h"
+          },
+          {
+            "testAttributeName": "Tryptase",
+            "minRange": 1,
+            "maxRange": 11,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Gastrin",
+            "minRange": 13,
+            "maxRange": 115,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "C-Telopeptide (Beta-CTx)",
+            "minRange": 0,
+            "maxRange": 1000,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Inhibin B",
+            "minRange": 15,
+            "maxRange": 200,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Interleukin-6 (IL-6)",
+            "minRange": 0,
+            "maxRange": 7,
+            "unit": "pg/mL"
+          }
+        ]
+      },
+      "SPECIFIC PROTEINS": {
+        "groupName": "SPECIFIC PROTEINS",
+        "tests": [
+          {
+            "testAttributeName": "Ceruloplasmin",
+            "minRange": 20,
+            "maxRange": 60,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Alpha-1 Antitrypsin",
+            "minRange": 90,
+            "maxRange": 200,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Prealbumin",
+            "minRange": 20,
+            "maxRange": 40,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Cystatin C",
+            "minRange": 0.6,
+            "maxRange": 1.0,
+            "unit": "mg/L"
+          },
+          {
+            "testAttributeName": "Serum Free Light Chain Kappa",
+            "minRange": 3.3,
+            "maxRange": 19.4,
+            "unit": "mg/L"
+          },
+          {
+            "testAttributeName": "Serum Free Light Chain Lambda",
+            "minRange": 5.7,
+            "maxRange": 26.3,
+            "unit": "mg/L"
+          },
+          {
+            "testAttributeName": "Kappa/Lambda Ratio",
+            "minRange": 0.26,
+            "maxRange": 1.65,
+            "unit": "Ratio"
+          }
+        ]
+      },
+      "THERAPEUTIC DRUGS": {
+        "groupName": "THERAPEUTIC DRUGS",
+        "tests": [
+          {
+            "testAttributeName": "Digoxin",
+            "minRange": 0.8,
+            "maxRange": 2.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Phenytoin (Dilantin)",
+            "minRange": 10,
+            "maxRange": 20,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Carbamazepine",
+            "minRange": 4,
+            "maxRange": 12,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Valproic Acid",
+            "minRange": 50,
+            "maxRange": 100,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Phenobarbitone",
+            "minRange": 15,
+            "maxRange": 40,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Lithium",
+            "minRange": 0.6,
+            "maxRange": 1.2,
+            "unit": "mmol/L"
+          },
+          {
+            "testAttributeName": "Cyclosporine (Trough)",
+            "minRange": 100,
+            "maxRange": 400,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Tacrolimus (Trough)",
+            "minRange": 5,
+            "maxRange": 20,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Vancomycin (Trough)",
+            "minRange": 10,
+            "maxRange": 20,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Methotrexate (24h)",
+            "minRange": 0.0,
+            "maxRange": 5.0,
+            "unit": "µmol/L"
+          },
+          {
+            "testAttributeName": "Theophylline",
+            "minRange": 10,
+            "maxRange": 20,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Amikacin (Peak)",
+            "minRange": 20,
+            "maxRange": 30,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Amikacin (Trough)",
+            "minRange": 1,
+            "maxRange": 8,
+            "unit": "µg/mL"
+          },
+          {
+            "testAttributeName": "Gentamicin (Peak)",
+            "minRange": 5,
+            "maxRange": 10,
+            "unit": "µg/mL"
+          }
+        ]
+      },
+      "THYROID": {
+        "groupName": "THYROID",
+        "tests": [
+          {
+            "testAttributeName": "Total T3",
+            "minRange": 80,
+            "maxRange": 200,
+            "unit": "ng/dL"
+          },
+          {
+            "testAttributeName": "Total T4",
+            "minRange": 5.1,
+            "maxRange": 14.1,
+            "unit": "µg/dL"
+          },
+          {
+            "testAttributeName": "TSH",
+            "minRange": 0.35,
+            "maxRange": 5.5,
+            "unit": "µIU/mL"
+          }
+        ]
+      },
+      "THYROID EXTENDED": {
+        "groupName": "THYROID EXTENDED",
+        "tests": [
+          {
+            "testAttributeName": "Free T3",
+            "minRange": 2.0,
+            "maxRange": 4.4,
+            "unit": "pg/mL"
+          },
+          {
+            "testAttributeName": "Free T4",
+            "minRange": 0.8,
+            "maxRange": 1.8,
+            "unit": "ng/dL"
+          },
+          {
+            "testAttributeName": "Anti-TPO Antibody",
+            "minRange": 0,
+            "maxRange": 34,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "Anti-Thyroglobulin (ATG)",
+            "minRange": 0,
+            "maxRange": 115,
+            "unit": "IU/mL"
+          },
+          {
+            "testAttributeName": "Thyroglobulin",
+            "minRange": 1.4,
+            "maxRange": 78.0,
+            "unit": "ng/mL"
+          }
+        ]
+      },
+      "TOXICOLOGY": {
+        "groupName": "TOXICOLOGY",
+        "tests": [
+          {
+            "testAttributeName": "Ethanol (Blood Alcohol)",
+            "minRange": 0,
+            "maxRange": 10,
+            "unit": "mg/dL"
+          }
+        ]
+      },
+      "TUMOR MARKERS": {
+        "groupName": "TUMOR MARKERS",
+        "tests": [
+          {
+            "testAttributeName": "PSA (Total)",
+            "minRange": 0.0,
+            "maxRange": 4.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "PSA (Free)",
+            "minRange": 0.0,
+            "maxRange": 0.9,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "CA-125",
+            "minRange": 0.0,
+            "maxRange": 35.0,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "CEA",
+            "minRange": 0.0,
+            "maxRange": 5.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "AFP",
+            "minRange": 0.0,
+            "maxRange": 10.0,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "CA 19-9",
+            "minRange": 0.0,
+            "maxRange": 37.0,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "CA 15-3",
+            "minRange": 0.0,
+            "maxRange": 30.0,
+            "unit": "U/mL"
+          },
+          {
+            "testAttributeName": "Beta HCG (Tumor Marker)",
+            "minRange": 0.0,
+            "maxRange": 5.0,
+            "unit": "mIU/mL"
+          },
+          {
+            "testAttributeName": "Beta-2 Microglobulin",
+            "minRange": 0.7,
+            "maxRange": 1.8,
+            "unit": "mg/L"
+          }
+        ]
+      },
+      "URINE ANALYSIS": {
+        "groupName": "URINE ANALYSIS",
+        "tests": [
+          {
+            "testAttributeName": "Urine pH",
+            "minRange": 4.5,
+            "maxRange": 8.0,
+            "unit": "pH"
+          },
+          {
+            "testAttributeName": "Urine Specific Gravity",
+            "minRange": 1.005,
+            "maxRange": 1.03,
+            "unit": "SG"
+          },
+          {
+            "testAttributeName": "Urine Urobilinogen",
+            "minRange": 0.2,
+            "maxRange": 1.0,
+            "unit": "EU/dL"
+          },
+          {
+            "testAttributeName": "Urine 24h Protein",
+            "minRange": 0,
+            "maxRange": 150,
+            "unit": "mg/day"
+          },
+          {
+            "testAttributeName": "Urine 24h Creatinine",
+            "minRange": 1000,
+            "maxRange": 2000,
+            "unit": "mg/day"
+          },
+          {
+            "testAttributeName": "Urine Calcium (Spot)",
+            "minRange": 0,
+            "maxRange": 15,
+            "unit": "mg/dL"
+          }
+        ]
+      },
+      "VITAMINS": {
+        "groupName": "VITAMINS",
+        "tests": [
+          {
+            "testAttributeName": "Vitamin D (Total)",
+            "minRange": 30,
+            "maxRange": 100,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Vitamin B12",
+            "minRange": 211,
+            "maxRange": 911,
+            "unit": "pg/mL"
+          }
+        ]
+      },
+      "VITAMINS EXTENDED": {
+        "groupName": "VITAMINS EXTENDED",
+        "tests": [
+          {
+            "testAttributeName": "Folic Acid",
+            "minRange": 4.6,
+            "maxRange": 34.8,
+            "unit": "ng/mL"
+          },
+          {
+            "testAttributeName": "Vitamin A (Retinol)",
+            "minRange": 0.3,
+            "maxRange": 0.7,
+            "unit": "mg/L"
+          },
+          {
+            "testAttributeName": "Vitamin E (Tocopherol)",
+            "minRange": 5,
+            "maxRange": 18,
+            "unit": "mg/L"
+          },
+          {
+            "testAttributeName": "Vitamin C (Ascorbic Acid)",
+            "minRange": 0.4,
+            "maxRange": 2.0,
+            "unit": "mg/dL"
+          },
+          {
+            "testAttributeName": "Vitamin B6",
+            "minRange": 5,
+            "maxRange": 50,
+            "unit": "µg/L"
+          },
+          {
+            "testAttributeName": "Vitamin B1 (Thiamine)",
+            "minRange": 70,
+            "maxRange": 180,
+            "unit": "nmol/L"
+          }
+        ]
+      }
+    },
+    "allTests": [
+      {
+        "testGroupName": "ACID BASE (ARTERIAL)",
+        "testAttributeName": "ABG - Base Excess",
+        "minRange": -2,
+        "maxRange": 2,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "ACID BASE (ARTERIAL)",
+        "testAttributeName": "ABG - HCO3",
+        "minRange": 22,
+        "maxRange": 26,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "ACID BASE (ARTERIAL)",
+        "testAttributeName": "ABG - O2 Saturation",
+        "minRange": 95,
+        "maxRange": 100,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "ACID BASE (ARTERIAL)",
+        "testAttributeName": "ABG - pCO2",
+        "minRange": 35,
+        "maxRange": 45,
+        "unit": "mmHg"
+      },
+      {
+        "testGroupName": "ACID BASE (ARTERIAL)",
+        "testAttributeName": "ABG - pH",
+        "minRange": 7.35,
+        "maxRange": 7.45,
+        "unit": "pH"
+      },
+      {
+        "testGroupName": "ACID BASE (ARTERIAL)",
+        "testAttributeName": "ABG - pO2",
+        "minRange": 80,
+        "maxRange": 100,
+        "unit": "mmHg"
+      },
+      {
+        "testGroupName": "ACID BASE (VENOUS)",
+        "testAttributeName": "Lactate (Plasma)",
+        "minRange": 0.5,
+        "maxRange": 2.2,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "ACID BASE (VENOUS)",
+        "testAttributeName": "VBG - HCO3",
+        "minRange": 23,
+        "maxRange": 29,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "ACID BASE (VENOUS)",
+        "testAttributeName": "VBG - pCO2",
+        "minRange": 41,
+        "maxRange": 51,
+        "unit": "mmHg"
+      },
+      {
+        "testGroupName": "ACID BASE (VENOUS)",
+        "testAttributeName": "VBG - pH",
+        "minRange": 7.31,
+        "maxRange": 7.41,
+        "unit": "pH"
+      },
+      {
+        "testGroupName": "ADRENAL HORMONES",
+        "testAttributeName": "ACTH",
+        "minRange": 7.2,
+        "maxRange": 63.3,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "ADRENAL HORMONES",
+        "testAttributeName": "Aldosterone (Upright)",
+        "minRange": 4.0,
+        "maxRange": 31.0,
+        "unit": "ng/dL"
+      },
+      {
+        "testGroupName": "ADRENAL HORMONES",
+        "testAttributeName": "Cortisol (Evening 4PM)",
+        "minRange": 2.7,
+        "maxRange": 10.5,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "ADRENAL HORMONES",
+        "testAttributeName": "Cortisol (Morning 8AM)",
+        "minRange": 6.0,
+        "maxRange": 18.4,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "ADRENAL HORMONES",
+        "testAttributeName": "DHEAS (Female)",
+        "minRange": 35,
+        "maxRange": 430,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "ADRENAL HORMONES",
+        "testAttributeName": "DHEAS (Male)",
+        "minRange": 80,
+        "maxRange": 560,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Alternaria alternata (m6)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Aspergillus fumigatus (m3)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Beef (f27)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Bermuda Grass (g2)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Candida albicans (m5)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Cat Dander (e1)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Chocolate (f93)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Cladosporium herbarum (m2)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Cockroach (i6)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Coconut (f36)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Cod Fish (f3)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Common Ragweed (w1)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Crab (f23)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Dermatophagoides farinae (d2)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Dermatophagoides pteronyssinus (d1)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Dog Dander (e5)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Egg White (f1)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Gluten (f79)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Hazelnut (f17)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Latex (k82)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Milk (f2)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Mugwort (w6)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Peanut (f13)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Penicillium notatum (m1)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Pork (f26)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Shrimp (f24)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Soybean (f14)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Strawberry (f44)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Timothy Grass (g6)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Tomato (f25)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ALLERGY - SPECIFIC IgE",
+        "testAttributeName": "Specific IgE - Wheat (f4)",
+        "minRange": 0.0,
+        "maxRange": 0.35,
+        "unit": "kU/L"
+      },
+      {
+        "testGroupName": "ARTHRITIS",
+        "testAttributeName": "ASO Titer",
+        "minRange": 0,
+        "maxRange": 200,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "ARTHRITIS",
+        "testAttributeName": "CRP (Quantitative)",
+        "minRange": 0.0,
+        "maxRange": 6.0,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "ARTHRITIS",
+        "testAttributeName": "RA Factor (Quantitative)",
+        "minRange": 0,
+        "maxRange": 14,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "AMA (Antimitochondrial)",
+        "minRange": 0,
+        "maxRange": 20,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "ANA (IFA Titre)",
+        "minRange": 0,
+        "maxRange": 80,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "ANCA - cANCA (PR3)",
+        "minRange": 0.0,
+        "maxRange": 3.5,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "ANCA - pANCA (MPO)",
+        "minRange": 0.0,
+        "maxRange": 5.0,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "ASMA (Smooth Muscle)",
+        "minRange": 0,
+        "maxRange": 20,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "Anti-CCP",
+        "minRange": 0,
+        "maxRange": 17,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "Anti-Cardiolipin IgG",
+        "minRange": 0,
+        "maxRange": 10,
+        "unit": "GPL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "Anti-Cardiolipin IgM",
+        "minRange": 0,
+        "maxRange": 10,
+        "unit": "MPL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "Anti-Nuclear Antibody (ELISA)",
+        "minRange": 0.0,
+        "maxRange": 1.0,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "Anti-dsDNA",
+        "minRange": 0,
+        "maxRange": 30,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "C3 Complement",
+        "minRange": 90,
+        "maxRange": 180,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "AUTOIMMUNE",
+        "testAttributeName": "C4 Complement",
+        "minRange": 10,
+        "maxRange": 40,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "BODY FLUIDS",
+        "testAttributeName": "CSF Glucose",
+        "minRange": 40,
+        "maxRange": 70,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "BODY FLUIDS",
+        "testAttributeName": "CSF Protein",
+        "minRange": 15,
+        "maxRange": 45,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "BONE METABOLISM",
+        "testAttributeName": "Calcitonin",
+        "minRange": 0.0,
+        "maxRange": 8.4,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "BONE METABOLISM",
+        "testAttributeName": "Osteocalcin",
+        "minRange": 11,
+        "maxRange": 43,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "BONE METABOLISM",
+        "testAttributeName": "Parathyroid Hormone (PTH)",
+        "minRange": 15,
+        "maxRange": 65,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "BONE METABOLISM",
+        "testAttributeName": "Vitamin D 1,25 Dihydroxy",
+        "minRange": 19.9,
+        "maxRange": 79.3,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Apolipoprotein A1",
+        "minRange": 110,
+        "maxRange": 205,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Apolipoprotein B",
+        "minRange": 55,
+        "maxRange": 140,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "CK-MB Mass",
+        "minRange": 0.0,
+        "maxRange": 5.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Homocysteine",
+        "minRange": 5,
+        "maxRange": 15,
+        "unit": "µmol/L"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Lipoprotein (a)",
+        "minRange": 0,
+        "maxRange": 30,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Myoglobin",
+        "minRange": 0,
+        "maxRange": 85,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "NT-proBNP",
+        "minRange": 0,
+        "maxRange": 125,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Troponin I (Quantitative)",
+        "minRange": 0.0,
+        "maxRange": 0.04,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "Troponin T (hs-cTnT)",
+        "minRange": 0.0,
+        "maxRange": 14.0,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "CARDIAC MARKERS",
+        "testAttributeName": "hs-CRP",
+        "minRange": 0.0,
+        "maxRange": 1.0,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "COAGULATION",
+        "testAttributeName": "APTT",
+        "minRange": 26,
+        "maxRange": 36,
+        "unit": "Sec"
+      },
+      {
+        "testGroupName": "COAGULATION",
+        "testAttributeName": "Bleeding Time",
+        "minRange": 2,
+        "maxRange": 7,
+        "unit": "Min"
+      },
+      {
+        "testGroupName": "COAGULATION",
+        "testAttributeName": "Clotting Time",
+        "minRange": 4,
+        "maxRange": 9,
+        "unit": "Min"
+      },
+      {
+        "testGroupName": "COAGULATION",
+        "testAttributeName": "INR",
+        "minRange": 0.9,
+        "maxRange": 1.1,
+        "unit": "Ratio"
+      },
+      {
+        "testGroupName": "COAGULATION",
+        "testAttributeName": "Prothrombin Time (PT)",
+        "minRange": 11.0,
+        "maxRange": 13.5,
+        "unit": "Sec"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "Antithrombin III",
+        "minRange": 80,
+        "maxRange": 120,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "D-Dimer",
+        "minRange": 0,
+        "maxRange": 500,
+        "unit": "ng/mL FEU"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "Factor VIII Activity",
+        "minRange": 50,
+        "maxRange": 150,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "Fibrinogen",
+        "minRange": 200,
+        "maxRange": 400,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "Lupus Anticoagulant (DRVVT)",
+        "minRange": 0.8,
+        "maxRange": 1.2,
+        "unit": "Ratio"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "Protein C Activity",
+        "minRange": 70,
+        "maxRange": 140,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "COAGULATION EXTENDED",
+        "testAttributeName": "Protein S Activity",
+        "minRange": 60,
+        "maxRange": 130,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "C-Peptide (Fasting)",
+        "minRange": 1.1,
+        "maxRange": 4.4,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "Estimated Avg Glucose (eAG)",
+        "minRange": 90,
+        "maxRange": 120,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "Fasting Blood Glucose (FBS)",
+        "minRange": 70,
+        "maxRange": 100,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "HbA1c",
+        "minRange": 4.0,
+        "maxRange": 5.6,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "Insulin (Fasting)",
+        "minRange": 2.6,
+        "maxRange": 24.9,
+        "unit": "µU/mL"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "Post Prandial Glucose (PPBS)",
+        "minRange": 70,
+        "maxRange": 140,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "DIABETES",
+        "testAttributeName": "Random Blood Glucose",
+        "minRange": 70,
+        "maxRange": 140,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "ELECTROLYTES",
+        "testAttributeName": "Ionized Calcium",
+        "minRange": 4.5,
+        "maxRange": 5.6,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "ELECTROLYTES",
+        "testAttributeName": "Magnesium",
+        "minRange": 1.7,
+        "maxRange": 2.2,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "ELECTROPHORESIS",
+        "testAttributeName": "Albumin (Electrophoresis)",
+        "minRange": 55,
+        "maxRange": 68,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "ELECTROPHORESIS",
+        "testAttributeName": "Alpha-1 Globulin",
+        "minRange": 2,
+        "maxRange": 5,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "ELECTROPHORESIS",
+        "testAttributeName": "Alpha-2 Globulin",
+        "minRange": 6,
+        "maxRange": 12,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "ELECTROPHORESIS",
+        "testAttributeName": "Beta Globulin",
+        "minRange": 8,
+        "maxRange": 14,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "ELECTROPHORESIS",
+        "testAttributeName": "Gamma Globulin",
+        "minRange": 12,
+        "maxRange": 20,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "ENZYMES",
+        "testAttributeName": "Acid Phosphatase (Total)",
+        "minRange": 0,
+        "maxRange": 9,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "ENZYMES",
+        "testAttributeName": "CPK - Total (Female)",
+        "minRange": 30,
+        "maxRange": 135,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "ENZYMES",
+        "testAttributeName": "CPK - Total (Male)",
+        "minRange": 55,
+        "maxRange": 170,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "ENZYMES",
+        "testAttributeName": "LDH (Lactate Dehydrogenase)",
+        "minRange": 140,
+        "maxRange": 280,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "AMH",
+        "minRange": 2.2,
+        "maxRange": 6.8,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "Estradiol (Follicular)",
+        "minRange": 12.5,
+        "maxRange": 166.0,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "Estradiol (Luteal)",
+        "minRange": 43.8,
+        "maxRange": 211.0,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "Estradiol (Ovulation)",
+        "minRange": 85.8,
+        "maxRange": 498.0,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "FSH (Follicular)",
+        "minRange": 3.5,
+        "maxRange": 12.5,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "FSH (Luteal)",
+        "minRange": 1.7,
+        "maxRange": 7.7,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "FSH (Mid-Cycle)",
+        "minRange": 4.7,
+        "maxRange": 21.5,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "FSH (Post-Menopause)",
+        "minRange": 25.8,
+        "maxRange": 134.8,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "LH (Follicular)",
+        "minRange": 2.4,
+        "maxRange": 12.6,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "LH (Luteal)",
+        "minRange": 1.0,
+        "maxRange": 11.4,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "LH (Mid-Cycle)",
+        "minRange": 14.0,
+        "maxRange": 95.6,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "LH (Post-Menopause)",
+        "minRange": 7.7,
+        "maxRange": 58.5,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "Progesterone (Follicular)",
+        "minRange": 0.2,
+        "maxRange": 1.5,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "Progesterone (Luteal)",
+        "minRange": 1.7,
+        "maxRange": 27.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (FEMALE)",
+        "testAttributeName": "Prolactin (Non-Preg)",
+        "minRange": 4.8,
+        "maxRange": 23.3,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (MALE)",
+        "testAttributeName": "FSH (Male)",
+        "minRange": 1.5,
+        "maxRange": 12.4,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (MALE)",
+        "testAttributeName": "LH (Male)",
+        "minRange": 1.7,
+        "maxRange": 8.6,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (MALE)",
+        "testAttributeName": "Prolactin (Male)",
+        "minRange": 4.0,
+        "maxRange": 15.2,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (MALE)",
+        "testAttributeName": "Testosterone Free (Male)",
+        "minRange": 9.0,
+        "maxRange": 30.0,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "FERTILITY (MALE)",
+        "testAttributeName": "Testosterone Total (Male)",
+        "minRange": 249,
+        "maxRange": 836,
+        "unit": "ng/dL"
+      },
+      {
+        "testGroupName": "FLOW CYTOMETRY",
+        "testAttributeName": "CD19 Count (B Cells)",
+        "minRange": 100,
+        "maxRange": 500,
+        "unit": "cells/µL"
+      },
+      {
+        "testGroupName": "FLOW CYTOMETRY",
+        "testAttributeName": "CD3 Count (Total T Cells)",
+        "minRange": 900,
+        "maxRange": 2300,
+        "unit": "cells/µL"
+      },
+      {
+        "testGroupName": "FLOW CYTOMETRY",
+        "testAttributeName": "CD4 Count (Helper T Cells)",
+        "minRange": 500,
+        "maxRange": 1500,
+        "unit": "cells/µL"
+      },
+      {
+        "testGroupName": "FLOW CYTOMETRY",
+        "testAttributeName": "CD4/CD8 Ratio",
+        "minRange": 1.0,
+        "maxRange": 2.5,
+        "unit": "Ratio"
+      },
+      {
+        "testGroupName": "FLOW CYTOMETRY",
+        "testAttributeName": "CD56 Count (NK Cells)",
+        "minRange": 100,
+        "maxRange": 400,
+        "unit": "cells/µL"
+      },
+      {
+        "testGroupName": "FLOW CYTOMETRY",
+        "testAttributeName": "CD8 Count (Suppressor T Cells)",
+        "minRange": 300,
+        "maxRange": 1000,
+        "unit": "cells/µL"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Aluminum (Serum)",
+        "minRange": 0,
+        "maxRange": 10,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Arsenic (Blood)",
+        "minRange": 0,
+        "maxRange": 12,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Cadmium (Blood)",
+        "minRange": 0.0,
+        "maxRange": 1.2,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Chromium (Serum)",
+        "minRange": 0.1,
+        "maxRange": 0.2,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Copper (Serum)",
+        "minRange": 70,
+        "maxRange": 140,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Lead (Blood)",
+        "minRange": 0,
+        "maxRange": 5,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Mercury (Blood)",
+        "minRange": 0,
+        "maxRange": 10,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Selenium (Serum)",
+        "minRange": 70,
+        "maxRange": 150,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "HEAVY METALS",
+        "testAttributeName": "Zinc (Serum)",
+        "minRange": 60,
+        "maxRange": 120,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Absolute Eosinophil Count",
+        "minRange": 40,
+        "maxRange": 440,
+        "unit": "/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Absolute Lymphocyte Count",
+        "minRange": 1000,
+        "maxRange": 3000,
+        "unit": "/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Absolute Monocyte Count",
+        "minRange": 200,
+        "maxRange": 1000,
+        "unit": "/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Absolute Neutrophil Count",
+        "minRange": 2000,
+        "maxRange": 7000,
+        "unit": "/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Basophils",
+        "minRange": 0,
+        "maxRange": 1,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "ESR (Westergren) - Female",
+        "minRange": 0,
+        "maxRange": 20,
+        "unit": "mm/1st hr"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "ESR (Westergren) - Male",
+        "minRange": 0,
+        "maxRange": 15,
+        "unit": "mm/1st hr"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Eosinophils",
+        "minRange": 1,
+        "maxRange": 6,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Haemoglobin (Female)",
+        "minRange": 12.0,
+        "maxRange": 15.0,
+        "unit": "g/dL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Haemoglobin (Male)",
+        "minRange": 13.0,
+        "maxRange": 17.0,
+        "unit": "g/dL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Lymphocytes",
+        "minRange": 20,
+        "maxRange": 45,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "MCH",
+        "minRange": 27,
+        "maxRange": 33,
+        "unit": "pg"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "MCHC",
+        "minRange": 32,
+        "maxRange": 36,
+        "unit": "g/dL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "MCV",
+        "minRange": 80,
+        "maxRange": 96,
+        "unit": "fL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Monocytes",
+        "minRange": 2,
+        "maxRange": 10,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Neutrophils",
+        "minRange": 40,
+        "maxRange": 75,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "PCV (Female)",
+        "minRange": 36,
+        "maxRange": 46,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "PCV (Male)",
+        "minRange": 40,
+        "maxRange": 50,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Platelet Count",
+        "minRange": 150,
+        "maxRange": 450,
+        "unit": "10^3/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "RBC Count (Female)",
+        "minRange": 4.0,
+        "maxRange": 5.2,
+        "unit": "10^6/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "RBC Count (Male)",
+        "minRange": 4.5,
+        "maxRange": 5.9,
+        "unit": "10^6/µL"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "RDW-CV",
+        "minRange": 11.5,
+        "maxRange": 14.5,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Reticulocyte Count",
+        "minRange": 0.5,
+        "maxRange": 2.5,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "HEMATOLOGY",
+        "testAttributeName": "Total Leucocyte Count (TLC)",
+        "minRange": 4.0,
+        "maxRange": 11.0,
+        "unit": "10^3/µL"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "ASO Titer",
+        "minRange": 0,
+        "maxRange": 200,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Brucella Agglutination",
+        "minRange": 0,
+        "maxRange": 80,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "CMV IgG Avidity",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Chikungunya IgM",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "HSV 1 IgG",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "HSV 2 IgG",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Hepatitis A IgM (HAV)",
+        "minRange": 0.0,
+        "maxRange": 0.8,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Hepatitis B Core IgM (Anti-HBc)",
+        "minRange": 0.0,
+        "maxRange": 1.0,
+        "unit": "S/CO"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Hepatitis B Surface Antibody (Anti-HBs)",
+        "minRange": 10,
+        "maxRange": 1000,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Hepatitis E IgM (HEV)",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Leptospira IgM",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Procalcitonin (Sepsis)",
+        "minRange": 0.0,
+        "maxRange": 0.5,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Rubella IgG",
+        "minRange": 0,
+        "maxRange": 10,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Rubella IgM",
+        "minRange": 0.0,
+        "maxRange": 0.8,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Syphilis (TPHA)",
+        "minRange": 0,
+        "maxRange": 80,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Syphilis (VDRL/RPR)",
+        "minRange": 0,
+        "maxRange": 1,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Toxoplasma IgG",
+        "minRange": 0,
+        "maxRange": 8,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "INFECTIOUS DISEASE",
+        "testAttributeName": "Toxoplasma IgM",
+        "minRange": 0.0,
+        "maxRange": 0.8,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "IRON STUDIES",
+        "testAttributeName": "Serum Iron",
+        "minRange": 60,
+        "maxRange": 170,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "IRON STUDIES",
+        "testAttributeName": "TIBC",
+        "minRange": 240,
+        "maxRange": 450,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "IRON STUDIES",
+        "testAttributeName": "Transferrin Saturation",
+        "minRange": 20,
+        "maxRange": 50,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "IRON/ANEMIA EXTENDED",
+        "testAttributeName": "Erythropoietin",
+        "minRange": 2.6,
+        "maxRange": 18.5,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "IRON/ANEMIA EXTENDED",
+        "testAttributeName": "Ferritin (Female)",
+        "minRange": 10,
+        "maxRange": 120,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "IRON/ANEMIA EXTENDED",
+        "testAttributeName": "Ferritin (Male)",
+        "minRange": 20,
+        "maxRange": 250,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "IRON/ANEMIA EXTENDED",
+        "testAttributeName": "Haptoglobin",
+        "minRange": 30,
+        "maxRange": 200,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "IRON/ANEMIA EXTENDED",
+        "testAttributeName": "Transferrin",
+        "minRange": 200,
+        "maxRange": 360,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "IRON/ANEMIA EXTENDED",
+        "testAttributeName": "UIBC",
+        "minRange": 110,
+        "maxRange": 370,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "LIPID PROFILE",
+        "testAttributeName": "HDL Cholesterol",
+        "minRange": 40,
+        "maxRange": 60,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIPID PROFILE",
+        "testAttributeName": "LDL Cholesterol",
+        "minRange": 50,
+        "maxRange": 100,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIPID PROFILE",
+        "testAttributeName": "TC/HDL Ratio",
+        "minRange": 3.0,
+        "maxRange": 5.0,
+        "unit": "Ratio"
+      },
+      {
+        "testGroupName": "LIPID PROFILE",
+        "testAttributeName": "Total Cholesterol",
+        "minRange": 125,
+        "maxRange": 200,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIPID PROFILE",
+        "testAttributeName": "Triglycerides",
+        "minRange": 50,
+        "maxRange": 150,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIPID PROFILE",
+        "testAttributeName": "VLDL Cholesterol",
+        "minRange": 5,
+        "maxRange": 40,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "A/G Ratio",
+        "minRange": 1.1,
+        "maxRange": 2.2,
+        "unit": "Ratio"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Albumin",
+        "minRange": 3.5,
+        "maxRange": 5.2,
+        "unit": "g/dL"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Alkaline Phosphatase (ALP)",
+        "minRange": 44,
+        "maxRange": 147,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Bilirubin Direct",
+        "minRange": 0.0,
+        "maxRange": 0.3,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Bilirubin Indirect",
+        "minRange": 0.1,
+        "maxRange": 0.9,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Bilirubin Total",
+        "minRange": 0.3,
+        "maxRange": 1.2,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Gamma GT (GGT) - Female",
+        "minRange": 5,
+        "maxRange": 36,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Gamma GT (GGT) - Male",
+        "minRange": 8,
+        "maxRange": 61,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Globulin",
+        "minRange": 2.3,
+        "maxRange": 3.5,
+        "unit": "g/dL"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "SGOT (AST)",
+        "minRange": 5,
+        "maxRange": 40,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "SGPT (ALT)",
+        "minRange": 7,
+        "maxRange": 56,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "LIVER PROFILE",
+        "testAttributeName": "Total Protein",
+        "minRange": 6.4,
+        "maxRange": 8.3,
+        "unit": "g/dL"
+      },
+      {
+        "testGroupName": "MISC",
+        "testAttributeName": "Semen Volume",
+        "minRange": 1.5,
+        "maxRange": 5.0,
+        "unit": "mL"
+      },
+      {
+        "testGroupName": "MISC",
+        "testAttributeName": "Semen pH",
+        "minRange": 7.2,
+        "maxRange": 8.0,
+        "unit": "pH"
+      },
+      {
+        "testGroupName": "MISC",
+        "testAttributeName": "Sperm Count",
+        "minRange": 15,
+        "maxRange": 200,
+        "unit": "millions/mL"
+      },
+      {
+        "testGroupName": "MISC",
+        "testAttributeName": "Sperm Motility (Total)",
+        "minRange": 40,
+        "maxRange": 100,
+        "unit": "%"
+      },
+      {
+        "testGroupName": "MOLECULAR / PCR",
+        "testAttributeName": "HBV DNA Quantitative",
+        "minRange": 0,
+        "maxRange": 20,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "MOLECULAR / PCR",
+        "testAttributeName": "HCV RNA Quantitative",
+        "minRange": 0,
+        "maxRange": 15,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "MOLECULAR / PCR",
+        "testAttributeName": "HIV-1 RNA Viral Load",
+        "minRange": 0,
+        "maxRange": 20,
+        "unit": "Copies/mL"
+      },
+      {
+        "testGroupName": "OTHER ENZYMES",
+        "testAttributeName": "ACE (Angiotensin Converting)",
+        "minRange": 8,
+        "maxRange": 52,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "OTHER ENZYMES",
+        "testAttributeName": "ADA (Adenosine Deaminase)",
+        "minRange": 0,
+        "maxRange": 40,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "OTHER ENZYMES",
+        "testAttributeName": "Cholinesterase",
+        "minRange": 5300,
+        "maxRange": 12900,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "OTHER ENZYMES",
+        "testAttributeName": "G6PD (Qualitative/Index)",
+        "minRange": 4.6,
+        "maxRange": 13.5,
+        "unit": "U/g Hb"
+      },
+      {
+        "testGroupName": "PANCREAS",
+        "testAttributeName": "Amylase (Serum)",
+        "minRange": 28,
+        "maxRange": 100,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "PANCREAS",
+        "testAttributeName": "Lipase (Serum)",
+        "minRange": 13,
+        "maxRange": 60,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "PANCREAS EXTENDED",
+        "testAttributeName": "Pancreatic Amylase",
+        "minRange": 13,
+        "maxRange": 53,
+        "unit": "U/L"
+      },
+      {
+        "testGroupName": "PITUITARY/GROWTH",
+        "testAttributeName": "Growth Hormone (Fasting)",
+        "minRange": 0.0,
+        "maxRange": 3.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "PITUITARY/GROWTH",
+        "testAttributeName": "IGF-1",
+        "minRange": 115,
+        "maxRange": 307,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "PROTEINS",
+        "testAttributeName": "IgA Total",
+        "minRange": 70,
+        "maxRange": 400,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "PROTEINS",
+        "testAttributeName": "IgE Total",
+        "minRange": 0,
+        "maxRange": 100,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "PROTEINS",
+        "testAttributeName": "IgG Total",
+        "minRange": 700,
+        "maxRange": 1600,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "PROTEINS",
+        "testAttributeName": "IgM Total",
+        "minRange": 40,
+        "maxRange": 230,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Blood Urea",
+        "minRange": 15,
+        "maxRange": 40,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Blood Urea Nitrogen (BUN)",
+        "minRange": 7,
+        "maxRange": 20,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Calcium (Total)",
+        "minRange": 8.6,
+        "maxRange": 10.2,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Chloride",
+        "minRange": 98,
+        "maxRange": 107,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Creatinine (Female)",
+        "minRange": 0.6,
+        "maxRange": 1.1,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Creatinine (Male)",
+        "minRange": 0.7,
+        "maxRange": 1.3,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Phosphorus",
+        "minRange": 2.5,
+        "maxRange": 4.5,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Potassium",
+        "minRange": 3.5,
+        "maxRange": 5.1,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Sodium",
+        "minRange": 136,
+        "maxRange": 145,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Uric Acid (Female)",
+        "minRange": 2.4,
+        "maxRange": 5.7,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "RENAL PROFILE",
+        "testAttributeName": "Uric Acid (Male)",
+        "minRange": 3.4,
+        "maxRange": 7.0,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "Dengue IgG (Index)",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "Dengue IgM (Index)",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "Dengue NS1 Antigen (Index)",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "HBsAg (Quantitative Index)",
+        "minRange": 0.0,
+        "maxRange": 0.99,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "HCV (Quantitative Index)",
+        "minRange": 0.0,
+        "maxRange": 0.99,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "HIV 1&2 (Quantitative Index)",
+        "minRange": 0.0,
+        "maxRange": 0.99,
+        "unit": "Index"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "Widal (S. Typhi H)",
+        "minRange": 0,
+        "maxRange": 80,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "SEROLOGY",
+        "testAttributeName": "Widal (S. Typhi O)",
+        "minRange": 0,
+        "maxRange": 80,
+        "unit": "Titer"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "5-HIAA (Urine 24h)",
+        "minRange": 2,
+        "maxRange": 8,
+        "unit": "mg/24h"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "C-Telopeptide (Beta-CTx)",
+        "minRange": 0,
+        "maxRange": 1000,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Gastrin",
+        "minRange": 13,
+        "maxRange": 115,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Inhibin B",
+        "minRange": 15,
+        "maxRange": 200,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Interleukin-6 (IL-6)",
+        "minRange": 0,
+        "maxRange": 7,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Metanephrines (Plasma)",
+        "minRange": 0,
+        "maxRange": 90,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Normetanephrines (Plasma)",
+        "minRange": 0,
+        "maxRange": 180,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Osmolality (Serum)",
+        "minRange": 275,
+        "maxRange": 295,
+        "unit": "mOsm/kg"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Osmolality (Urine)",
+        "minRange": 300,
+        "maxRange": 900,
+        "unit": "mOsm/kg"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "Tryptase",
+        "minRange": 1,
+        "maxRange": 11,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "SPECIAL",
+        "testAttributeName": "VMA (Urine 24h)",
+        "minRange": 0,
+        "maxRange": 13.6,
+        "unit": "mg/24h"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Alpha-1 Antitrypsin",
+        "minRange": 90,
+        "maxRange": 200,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Ceruloplasmin",
+        "minRange": 20,
+        "maxRange": 60,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Cystatin C",
+        "minRange": 0.6,
+        "maxRange": 1.0,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Kappa/Lambda Ratio",
+        "minRange": 0.26,
+        "maxRange": 1.65,
+        "unit": "Ratio"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Prealbumin",
+        "minRange": 20,
+        "maxRange": 40,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Serum Free Light Chain Kappa",
+        "minRange": 3.3,
+        "maxRange": 19.4,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "SPECIFIC PROTEINS",
+        "testAttributeName": "Serum Free Light Chain Lambda",
+        "minRange": 5.7,
+        "maxRange": 26.3,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Amikacin (Peak)",
+        "minRange": 20,
+        "maxRange": 30,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Amikacin (Trough)",
+        "minRange": 1,
+        "maxRange": 8,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Carbamazepine",
+        "minRange": 4,
+        "maxRange": 12,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Cyclosporine (Trough)",
+        "minRange": 100,
+        "maxRange": 400,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Digoxin",
+        "minRange": 0.8,
+        "maxRange": 2.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Gentamicin (Peak)",
+        "minRange": 5,
+        "maxRange": 10,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Lithium",
+        "minRange": 0.6,
+        "maxRange": 1.2,
+        "unit": "mmol/L"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Methotrexate (24h)",
+        "minRange": 0.0,
+        "maxRange": 5.0,
+        "unit": "µmol/L"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Phenobarbitone",
+        "minRange": 15,
+        "maxRange": 40,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Phenytoin (Dilantin)",
+        "minRange": 10,
+        "maxRange": 20,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Tacrolimus (Trough)",
+        "minRange": 5,
+        "maxRange": 20,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Theophylline",
+        "minRange": 10,
+        "maxRange": 20,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Valproic Acid",
+        "minRange": 50,
+        "maxRange": 100,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THERAPEUTIC DRUGS",
+        "testAttributeName": "Vancomycin (Trough)",
+        "minRange": 10,
+        "maxRange": 20,
+        "unit": "µg/mL"
+      },
+      {
+        "testGroupName": "THYROID",
+        "testAttributeName": "TSH",
+        "minRange": 0.35,
+        "maxRange": 5.5,
+        "unit": "µIU/mL"
+      },
+      {
+        "testGroupName": "THYROID",
+        "testAttributeName": "Total T3",
+        "minRange": 80,
+        "maxRange": 200,
+        "unit": "ng/dL"
+      },
+      {
+        "testGroupName": "THYROID",
+        "testAttributeName": "Total T4",
+        "minRange": 5.1,
+        "maxRange": 14.1,
+        "unit": "µg/dL"
+      },
+      {
+        "testGroupName": "THYROID EXTENDED",
+        "testAttributeName": "Anti-TPO Antibody",
+        "minRange": 0,
+        "maxRange": 34,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "THYROID EXTENDED",
+        "testAttributeName": "Anti-Thyroglobulin (ATG)",
+        "minRange": 0,
+        "maxRange": 115,
+        "unit": "IU/mL"
+      },
+      {
+        "testGroupName": "THYROID EXTENDED",
+        "testAttributeName": "Free T3",
+        "minRange": 2.0,
+        "maxRange": 4.4,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "THYROID EXTENDED",
+        "testAttributeName": "Free T4",
+        "minRange": 0.8,
+        "maxRange": 1.8,
+        "unit": "ng/dL"
+      },
+      {
+        "testGroupName": "THYROID EXTENDED",
+        "testAttributeName": "Thyroglobulin",
+        "minRange": 1.4,
+        "maxRange": 78.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "TOXICOLOGY",
+        "testAttributeName": "Ethanol (Blood Alcohol)",
+        "minRange": 0,
+        "maxRange": 10,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "AFP",
+        "minRange": 0.0,
+        "maxRange": 10.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "Beta HCG (Tumor Marker)",
+        "minRange": 0.0,
+        "maxRange": 5.0,
+        "unit": "mIU/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "Beta-2 Microglobulin",
+        "minRange": 0.7,
+        "maxRange": 1.8,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "CA 15-3",
+        "minRange": 0.0,
+        "maxRange": 30.0,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "CA 19-9",
+        "minRange": 0.0,
+        "maxRange": 37.0,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "CA-125",
+        "minRange": 0.0,
+        "maxRange": 35.0,
+        "unit": "U/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "CEA",
+        "minRange": 0.0,
+        "maxRange": 5.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "PSA (Free)",
+        "minRange": 0.0,
+        "maxRange": 0.9,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "TUMOR MARKERS",
+        "testAttributeName": "PSA (Total)",
+        "minRange": 0.0,
+        "maxRange": 4.0,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "URINE ANALYSIS",
+        "testAttributeName": "Urine 24h Creatinine",
+        "minRange": 1000,
+        "maxRange": 2000,
+        "unit": "mg/day"
+      },
+      {
+        "testGroupName": "URINE ANALYSIS",
+        "testAttributeName": "Urine 24h Protein",
+        "minRange": 0,
+        "maxRange": 150,
+        "unit": "mg/day"
+      },
+      {
+        "testGroupName": "URINE ANALYSIS",
+        "testAttributeName": "Urine Calcium (Spot)",
+        "minRange": 0,
+        "maxRange": 15,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "URINE ANALYSIS",
+        "testAttributeName": "Urine Specific Gravity",
+        "minRange": 1.005,
+        "maxRange": 1.03,
+        "unit": "SG"
+      },
+      {
+        "testGroupName": "URINE ANALYSIS",
+        "testAttributeName": "Urine Urobilinogen",
+        "minRange": 0.2,
+        "maxRange": 1.0,
+        "unit": "EU/dL"
+      },
+      {
+        "testGroupName": "URINE ANALYSIS",
+        "testAttributeName": "Urine pH",
+        "minRange": 4.5,
+        "maxRange": 8.0,
+        "unit": "pH"
+      },
+      {
+        "testGroupName": "VITAMINS",
+        "testAttributeName": "Vitamin B12",
+        "minRange": 211,
+        "maxRange": 911,
+        "unit": "pg/mL"
+      },
+      {
+        "testGroupName": "VITAMINS",
+        "testAttributeName": "Vitamin D (Total)",
+        "minRange": 30,
+        "maxRange": 100,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "VITAMINS EXTENDED",
+        "testAttributeName": "Folic Acid",
+        "minRange": 4.6,
+        "maxRange": 34.8,
+        "unit": "ng/mL"
+      },
+      {
+        "testGroupName": "VITAMINS EXTENDED",
+        "testAttributeName": "Vitamin A (Retinol)",
+        "minRange": 0.3,
+        "maxRange": 0.7,
+        "unit": "mg/L"
+      },
+      {
+        "testGroupName": "VITAMINS EXTENDED",
+        "testAttributeName": "Vitamin B1 (Thiamine)",
+        "minRange": 70,
+        "maxRange": 180,
+        "unit": "nmol/L"
+      },
+      {
+        "testGroupName": "VITAMINS EXTENDED",
+        "testAttributeName": "Vitamin B6",
+        "minRange": 5,
+        "maxRange": 50,
+        "unit": "µg/L"
+      },
+      {
+        "testGroupName": "VITAMINS EXTENDED",
+        "testAttributeName": "Vitamin C (Ascorbic Acid)",
+        "minRange": 0.4,
+        "maxRange": 2.0,
+        "unit": "mg/dL"
+      },
+      {
+        "testGroupName": "VITAMINS EXTENDED",
+        "testAttributeName": "Vitamin E (Tocopherol)",
+        "minRange": 5,
+        "maxRange": 18,
+        "unit": "mg/L"
+      }
+    ]
+  }
+}

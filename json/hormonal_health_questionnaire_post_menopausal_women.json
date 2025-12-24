@@ -1,0 +1,202 @@
+{
+  "formId": "ybtK9MmtpNJp3Geq7",
+  "formUrl": "https://forms.gle/ybtK9MmtpNJp3Geq7",
+  "title": "Hormonal Health Questionnaire: Post-menopausal Women",
+  "description": "Personal Information",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "text": "Full Name",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "text": "Client ID",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "text": "How would you describe your overall energy level?",
+      "required": true,
+      "options": [
+        "Excellent",
+        "Good",
+        "Low",
+        "Very low"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "text": "Have you experienced unexplained weight gain or loss?",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q5",
+      "type": "checkbox",
+      "text": "Have you noticed any of the following in last 3 months:",
+      "required": true,
+      "options": [
+        "Hair thinning or hair loss",
+        "Dry skin or brittle nails",
+        "Cold hands & feet",
+        "Constipation or sluggish digestion",
+        "Fatigue especially in the morning",
+        "Difficulty losing weight even with diet & exercise",
+        "Feeling thirsty all the time",
+        "Passing urine more often",
+        "Need to eat more often to feel full",
+        "Irritable, shaky, or lightheaded when you skip meals",
+        "Increased belly fat",
+        "Energy crashes in the afternoon",
+        "Feel fatigue throughout the day",
+        "Feel anxious, overwhelmed, or unable to cope with stress",
+        "Trouble falling asleep or staying asleep",
+        "Craving for salt or salty foods",
+        "Muscle weakness"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "text": "Menstruation History: When did you have your last period",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q7",
+      "type": "checkbox",
+      "text": "Do you experience any of the following:",
+      "required": true,
+      "options": [
+        "Night sweats",
+        "Hot flushes",
+        "Frequent UTIs",
+        "Vaginal dryness",
+        "Brain fog or poor concentration",
+        "Difficulty to hold urine",
+        "Leaking of urine while coughing/sneezing"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "text": "Have these symptoms impacted your daily life or well-being?",
+      "required": true,
+      "options": [
+        "Yes- significantly",
+        "Yes- somewhat",
+        "No"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "text": "Have you ever used hormone replacement therapy (HRT)?",
+      "required": false,
+      "options": [
+        "Yes- Currently using",
+        "Yes- in the past",
+        "No",
+        "Other"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "checkbox",
+      "text": "If you used HRT, what was the main reason? (check all that apply)",
+      "required": true,
+      "options": [
+        "Hot flushes/Night sweats",
+        "Bone health",
+        "Mood stabilization",
+        "Vaginal dryness",
+        "Doctor s recommendation",
+        "Other- please explain",
+        "Other"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "text": "Did you experience any side effects or concerns while on HRT?",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "text": "Are you currently taking any supplements or alternative therapies for hormone balance (e.g., soy, black cohosh, etc.)?",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "text": "Have you had a bone density test (DEXA scan) in last 1 year ?",
+      "required": true,
+      "options": [
+        "Yes- normal",
+        "Yes- osteopenia",
+        "Yes- osteoporosis",
+        "No",
+        "Not sure",
+        "Other"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "checkbox",
+      "text": "Do you engage in any of the following regularly? (check all that apply)",
+      "required": true,
+      "options": [
+        "Weight-bearing exercise (walking, lifting)",
+        "Balanced diet (calcium/vitamin D)",
+        "Regular medical check-ups",
+        "Stress management techniques (yoga, meditation, etc.)",
+        "Other"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "multiple_choice",
+      "text": "How well-informed do you feel about post-menopausal health?",
+      "required": true,
+      "options": [
+        "Very well-informed",
+        "Somewhat informed",
+        "Not informed at all"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "text": "Would you like to see more education or resources for women in post-menopause?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "Maybe"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalQuestions": 16,
+    "requiredQuestions": 13,
+    "optionalQuestions": 3,
+    "createdAt": "2024-12-22"
+  }
+}
+

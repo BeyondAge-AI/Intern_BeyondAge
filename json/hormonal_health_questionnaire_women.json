@@ -1,0 +1,147 @@
+{
+  "formId": "wFj9JfuvxW1Sg7XWA",
+  "formUrl": "https://forms.gle/wFj9JfuvxW1Sg7XWA",
+  "title": "Hormonal Health Questionnaire: Women",
+  "description": "Personal Information",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "text": "Full Name",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "text": "Client ID",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "text": "How would you describe your overall energy level?",
+      "required": true,
+      "options": [
+        "Excellent",
+        "Good",
+        "Low",
+        "Very low"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "text": "Have you experienced unexplained weight gain or loss?",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q5",
+      "type": "checkbox",
+      "text": "Have you observed any noticeable change in last 3 months-",
+      "required": true,
+      "options": [
+        "Hair thinning or hair loss",
+        "Dry skin or brittle nails",
+        "Cold hands & feet",
+        "Constipation or sluggish digestion",
+        "Fatigue especially in the morning",
+        "Difficulty losing weight even with diet & exercise",
+        "Feeling thirsty all the time",
+        "Passing urine more often",
+        "Need to eat more often to feel full",
+        "Irritable, shaky, or lightheaded when you skip meals",
+        "Increased belly fat",
+        "Energy crashes in the afternoon",
+        "Feel fatigue throughout the day",
+        "Feel anxious, overwhelmed, or unable to cope with stress",
+        "Have trouble falling asleep or staying asleep",
+        "Craving for salt or salty foods"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "text": "At what age did you begin menstruating (menarche)?",
+      "required": false,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q7",
+      "type": "checkbox",
+      "text": "Do you experience any of the following premenstrual symptoms regularly? (check all that apply)",
+      "required": false,
+      "options": [
+        "Mood swings",
+        "Cramps",
+        "Bloating",
+        "Breast tenderness",
+        "Headache",
+        "None",
+        "Other"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "text": "Menstruation History:",
+      "required": true,
+      "options": [
+        "Regular",
+        "Irregular"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "text": "Do you experience any of the following:",
+      "required": true,
+      "options": [
+        "Heavy periods",
+        "Painful periods"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "checkbox",
+      "text": "Have you ever been diagnosed with any of the following? (check all that apply)",
+      "required": true,
+      "options": [
+        "Polycystic ovarian syndrome ( PCOS)",
+        "Endometriosis",
+        "Thyroid disorder",
+        "Premenstrual Dysphoric Disorder (PMDD)",
+        "None"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "text": "Have you ever taken hormonal drugs(e.g., pill, patch, implant, IUD)?",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "text": "If yes, what was your primary reason for using it?",
+      "required": true,
+      "options": [
+        "Contraception",
+        "To regulate periods",
+        "Acne treatment",
+        "Pain relief",
+        "Other"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalQuestions": 12,
+    "requiredQuestions": 10,
+    "optionalQuestions": 2,
+    "createdAt": "2024-12-22"
+  }
+}
+

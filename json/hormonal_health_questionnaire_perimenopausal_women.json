@@ -1,0 +1,175 @@
+{
+  "formId": "GAAhK5mYWzgucjqy7",
+  "formUrl": "https://forms.gle/GAAhK5mYWzgucjqy7",
+  "title": "Hormonal Health Questionnaire: Perimenopausal Women",
+  "description": "Personal Information",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "text": "Full Name",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "text": "Client ID",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "text": "How would you describe your overall energy level?",
+      "required": true,
+      "options": [
+        "Excellent",
+        "Good",
+        "Low",
+        "Very low"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "text",
+      "text": "Have you experienced unexplained weight gain or loss?",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q5",
+      "type": "checkbox",
+      "text": "Have you noticed any of the following in last 3 months:",
+      "required": true,
+      "options": [
+        "Hair thinning or hair loss",
+        "Dry skin or brittle nails",
+        "Cold hands & feet",
+        "Constipation or sluggish digestion",
+        "Fatigue especially in the morning",
+        "Difficulty losing weight even with diet & exercise",
+        "Feeling thirsty all the time",
+        "Passing urine more often",
+        "Need to eat more often to feel full",
+        "Irritable, shaky, or lightheaded when you skip meals",
+        "Increased belly fat",
+        "Energy crashes in the afternoon",
+        "Feel fatigue throughout the day",
+        "Feel anxious, overwhelmed, or unable to cope with stress",
+        "Trouble falling asleep or staying asleep",
+        "Craving for salt or salty foods"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "text": "Menstruation History:",
+      "required": true,
+      "options": [
+        "Menstruating regularly",
+        "Menstruating but irregular periods"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "checkbox",
+      "text": "Have you noticed changes in your menstrual cycle? (check all that apply)",
+      "required": false,
+      "options": [
+        "Shorter cycles",
+        "Longer cycles",
+        "Heavier Bleeding",
+        "Lighter bleeding",
+        "Missed periods",
+        "Other"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "checkbox",
+      "text": "Do you feel any of the following:experiences",
+      "required": true,
+      "options": [
+        "Night sweats affecting",
+        "Hot flushes",
+        "Sleep disturbances",
+        "Frequent UTIs",
+        "Vaginal dryness",
+        "Decreased sexual desire",
+        "Mood swings or irritability",
+        "Brain fog or poor concentration",
+        "Difficulty to hold urine",
+        "Leaking of urine while coughing/sneezing",
+        "Musculoskeletal discomfort /stiffness/pain",
+        "Severe headache/migraine",
+        "Other"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "text": "How would you rate the impact of these symptoms on your quality of life?",
+      "required": false,
+      "options": [
+        "Severe",
+        "Moderate",
+        "Mild",
+        "No impact",
+        "Other"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "text": "Are you currently using any treatment for your symptoms?",
+      "required": true,
+      "options": [
+        "Yes – medical (HRT, pills, etc.)",
+        "Yes – natural or alternative remedies",
+        "No",
+        "Estrogens cream"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "text": "Do you actively track your menstrual cycle or symptoms?",
+      "required": false,
+      "options": [
+        "Yes – with an app or journal",
+        "Occasionally",
+        "No",
+        "Other"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "text": "Are you aware that perimenopause can last several years before menopause?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "text": "Would you like access to more resources or education on managing perimenopause?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "Maybe"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalQuestions": 13,
+    "requiredQuestions": 10,
+    "optionalQuestions": 3,
+    "createdAt": "2024-12-22"
+  }
+}
+

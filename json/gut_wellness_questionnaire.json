@@ -1,0 +1,210 @@
+{
+  "formId": "uezWYivnstwcbGFa8",
+  "formUrl": "https://forms.gle/uezWYivnstwcbGFa8",
+  "title": "Gut Wellness Questionnaire",
+  "description": "To be filled after the Lifestyle Medicine Questionnaire",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "text": "Patient ID",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "text": "Have you experienced significant weight loss over past 1 or 3 months",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "text": "Is there any recent change in your bowel movements (related to stress, specific foods, sleep etc.)",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice_grid",
+      "text": "How frequently do you experience the following symptoms?",
+      "required": true,
+      "rows": [
+        "Bloating",
+        "Gas",
+        "Acid reflux",
+        "Nausea",
+        "Undigested food in stool"
+      ],
+      "columns": [
+        "Daily",
+        "Weekly",
+        "Occasionally",
+        "Never"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "text": "How would you describe your appetite?",
+      "required": true,
+      "options": [
+        "Poor",
+        "Normal",
+        "Increased",
+        "Varies"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "text": "Do you skip meals due to digestive discomfort?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "text": "Do you feel excessively full or sleepy after eating a regular meal?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "text": "Do you feel abdominal discomfort or heaviness after meals?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "checkbox",
+      "text": "Do you notice any of these symptoms after eating foods?",
+      "required": true,
+      "options": [
+        "Fatigue",
+        "Skin itching",
+        "Joint pain",
+        "Mood swings",
+        "Brain fog (struggle to focus or feel mentally tired even after resting)",
+        "Acid reflux (acidity/ heartburn)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "text": "Have you ever noticed a white coating on your tongue?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "Sometimes"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "text": "Are there any specific foods that trigger symptoms like bloating, gas, diarrhea, or constipation?",
+      "required": true,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "text": "Have you undergone any food intolerance or allergy tests before?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "text",
+      "text": "Are you currently taking any medications for your digestive or gut-related concerns? If yes, please list them.",
+      "required": false,
+      "placeholder": "Your answer"
+    },
+    {
+      "id": "q14",
+      "type": "multiple_choice",
+      "text": "How often do you pass stool?",
+      "required": true,
+      "options": [
+        "Once a day",
+        "More than once",
+        "Alternate days",
+        "Less often"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "multiple_choice",
+      "text": "What is the usual consistency of your motion? (based on Bristol Stool Chart)",
+      "required": true,
+      "options": [
+        "Type 1: Separate hard lumps, like nuts — Severe constipation",
+        "Type 2: Sausage-shaped but lumpy — Mild constipation",
+        "Type 3: Like a sausage with cracks on the surface — Normal (slightly dehydrated)",
+        "Type 4: Smooth, soft sausage or snake — Ideal/Healthy",
+        "Type 5: Soft blobs with clear-cut edges — Lacking fiber / Mild diarrhea",
+        "Type 6: Fluffy pieces with ragged edges, mushy — Mild/moderate diarrhea",
+        "Type 7: Watery, no solid pieces — Severe diarrhea"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "text": "Have you observed any blood or mucus in your stool?",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "checkbox",
+      "text": "Are you using any supplements to support your gut health? (Check all that apply)",
+      "required": true,
+      "options": [
+        "Probiotics",
+        "Prebiotics",
+        "Digestive enzymes",
+        "Ayurvedic/herbal supplements (e.g., Triphala, Kutki)",
+        "L-glutamine",
+        "Fiber supplements (e.g., psyllium husk, isabgol, inulin)",
+        "Activated charcoal",
+        "Apple cider vinegar",
+        "Zinc carnosine",
+        "Multivitamins",
+        "No supplements currently",
+        "Other"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalQuestions": 17,
+    "requiredQuestions": 16,
+    "optionalQuestions": 1,
+    "createdAt": "2024-12-22"
+  }
+}
+

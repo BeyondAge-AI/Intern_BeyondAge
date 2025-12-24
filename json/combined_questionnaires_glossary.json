@@ -1,0 +1,1352 @@
+{
+  "metadata": {
+    "title": "Combined Questionnaires Glossary",
+    "description": "Comprehensive glossary of all health questionnaires with questions, options, and metadata",
+    "version": "1.0",
+    "createdAt": "2024-12-22",
+    "totalForms": 6,
+    "totalQuestions": 82
+  },
+  "forms": [
+    {
+      "formId": "uezWYivnstwcbGFa8",
+      "formUrl": "https://forms.gle/uezWYivnstwcbGFa8",
+      "title": "Gut Wellness Questionnaire",
+      "description": "To be filled after the Lifestyle Medicine Questionnaire",
+      "category": "Gut Health",
+      "totalQuestions": 17,
+      "requiredQuestions": 16,
+      "optionalQuestions": 1
+    },
+    {
+      "formId": "wFj9JfuvxW1Sg7XWA",
+      "formUrl": "https://forms.gle/wFj9JfuvxW1Sg7XWA",
+      "title": "Hormonal Health Questionnaire: Women",
+      "description": "Personal Information",
+      "category": "Hormonal Health - Women",
+      "totalQuestions": 12,
+      "requiredQuestions": 10,
+      "optionalQuestions": 2
+    },
+    {
+      "formId": "ybtK9MmtpNJp3Geq7",
+      "formUrl": "https://forms.gle/ybtK9MmtpNJp3Geq7",
+      "title": "Hormonal Health Questionnaire: Post-menopausal Women",
+      "description": "Personal Information",
+      "category": "Hormonal Health - Post-menopausal Women",
+      "totalQuestions": 16,
+      "requiredQuestions": 13,
+      "optionalQuestions": 3
+    },
+    {
+      "formId": "fnUc7gJaVzwuThXH6",
+      "formUrl": "https://forms.gle/fnUc7gJaVzwuThXH6",
+      "title": "Metabolic Journey Questionnaire",
+      "description": "Personal Information",
+      "category": "Metabolic Health",
+      "totalQuestions": 18,
+      "requiredQuestions": 13,
+      "optionalQuestions": 5
+    },
+    {
+      "formId": "GAAhK5mYWzgucjqy7",
+      "formUrl": "https://forms.gle/GAAhK5mYWzgucjqy7",
+      "title": "Hormonal Health Questionnaire: Perimenopausal Women",
+      "description": "Personal Information",
+      "category": "Hormonal Health - Perimenopausal Women",
+      "totalQuestions": 13,
+      "requiredQuestions": 10,
+      "optionalQuestions": 3
+    },
+    {
+      "formId": "p1rdc3uje55q985n7",
+      "formUrl": "https://forms.gle/p1rdc3uje55q985n7",
+      "title": "Hormone Health Questionnaire: Men",
+      "description": "Personal Information",
+      "category": "Hormonal Health - Men",
+      "totalQuestions": 6,
+      "requiredQuestions": 6,
+      "optionalQuestions": 0
+    }
+  ],
+  "questionsGlossary": {
+    "byForm": {
+      "gut_wellness": {
+        "formTitle": "Gut Wellness Questionnaire",
+        "questions": [
+          {
+            "id": "q1",
+            "type": "text",
+            "text": "Patient ID",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q2",
+            "type": "multiple_choice",
+            "text": "Have you experienced significant weight loss over past 1 or 3 months",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q3",
+            "type": "multiple_choice",
+            "text": "Is there any recent change in your bowel movements (related to stress, specific foods, sleep etc.)",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q4",
+            "type": "multiple_choice_grid",
+            "text": "How frequently do you experience the following symptoms?",
+            "required": true,
+            "rows": ["Bloating", "Gas", "Acid reflux", "Nausea", "Undigested food in stool"],
+            "columns": ["Daily", "Weekly", "Occasionally", "Never"]
+          },
+          {
+            "id": "q5",
+            "type": "multiple_choice",
+            "text": "How would you describe your appetite?",
+            "required": true,
+            "options": ["Poor", "Normal", "Increased", "Varies"]
+          },
+          {
+            "id": "q6",
+            "type": "multiple_choice",
+            "text": "Do you skip meals due to digestive discomfort?",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q7",
+            "type": "multiple_choice",
+            "text": "Do you feel excessively full or sleepy after eating a regular meal?",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q8",
+            "type": "multiple_choice",
+            "text": "Do you feel abdominal discomfort or heaviness after meals?",
+            "required": true,
+            "options": ["Yes", "No", "Sometimes"]
+          },
+          {
+            "id": "q9",
+            "type": "checkbox",
+            "text": "Do you notice any of these symptoms after eating foods?",
+            "required": true,
+            "options": ["Fatigue", "Skin itching", "Joint pain", "Mood swings", "Brain fog (struggle to focus or feel mentally tired even after resting)", "Acid reflux (acidity/ heartburn)"]
+          },
+          {
+            "id": "q10",
+            "type": "multiple_choice",
+            "text": "Have you ever noticed a white coating on your tongue?",
+            "required": true,
+            "options": ["Yes", "No", "Sometimes"]
+          },
+          {
+            "id": "q11",
+            "type": "text",
+            "text": "Are there any specific foods that trigger symptoms like bloating, gas, diarrhea, or constipation?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q12",
+            "type": "multiple_choice",
+            "text": "Have you undergone any food intolerance or allergy tests before?",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q13",
+            "type": "text",
+            "text": "Are you currently taking any medications for your digestive or gut-related concerns? If yes, please list them.",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q14",
+            "type": "multiple_choice",
+            "text": "How often do you pass stool?",
+            "required": true,
+            "options": ["Once a day", "More than once", "Alternate days", "Less often"]
+          },
+          {
+            "id": "q15",
+            "type": "multiple_choice",
+            "text": "What is the usual consistency of your motion? (based on Bristol Stool Chart)",
+            "required": true,
+            "options": [
+              "Type 1: Separate hard lumps, like nuts — Severe constipation",
+              "Type 2: Sausage-shaped but lumpy — Mild constipation",
+              "Type 3: Like a sausage with cracks on the surface — Normal (slightly dehydrated)",
+              "Type 4: Smooth, soft sausage or snake — Ideal/Healthy",
+              "Type 5: Soft blobs with clear-cut edges — Lacking fiber / Mild diarrhea",
+              "Type 6: Fluffy pieces with ragged edges, mushy — Mild/moderate diarrhea",
+              "Type 7: Watery, no solid pieces — Severe diarrhea"
+            ]
+          },
+          {
+            "id": "q16",
+            "type": "multiple_choice",
+            "text": "Have you observed any blood or mucus in your stool?",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q17",
+            "type": "checkbox",
+            "text": "Are you using any supplements to support your gut health? (Check all that apply)",
+            "required": true,
+            "options": [
+              "Probiotics",
+              "Prebiotics",
+              "Digestive enzymes",
+              "Ayurvedic/herbal supplements (e.g., Triphala, Kutki)",
+              "L-glutamine",
+              "Fiber supplements (e.g., psyllium husk, isabgol, inulin)",
+              "Activated charcoal",
+              "Apple cider vinegar",
+              "Zinc carnosine",
+              "Multivitamins",
+              "No supplements currently",
+              "Other"
+            ]
+          }
+        ]
+      },
+      "hormonal_women": {
+        "formTitle": "Hormonal Health Questionnaire: Women",
+        "questions": [
+          {
+            "id": "q1",
+            "type": "text",
+            "text": "Full Name",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q2",
+            "type": "text",
+            "text": "Client ID",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q3",
+            "type": "multiple_choice",
+            "text": "How would you describe your overall energy level?",
+            "required": true,
+            "options": ["Excellent", "Good", "Low", "Very low"]
+          },
+          {
+            "id": "q4",
+            "type": "text",
+            "text": "Have you experienced unexplained weight gain or loss?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q5",
+            "type": "checkbox",
+            "text": "Have you observed any noticeable change in last 3 months-",
+            "required": true,
+            "options": [
+              "Hair thinning or hair loss",
+              "Dry skin or brittle nails",
+              "Cold hands & feet",
+              "Constipation or sluggish digestion",
+              "Fatigue especially in the morning",
+              "Difficulty losing weight even with diet & exercise",
+              "Feeling thirsty all the time",
+              "Passing urine more often",
+              "Need to eat more often to feel full",
+              "Irritable, shaky, or lightheaded when you skip meals",
+              "Increased belly fat",
+              "Energy crashes in the afternoon",
+              "Feel fatigue throughout the day",
+              "Feel anxious, overwhelmed, or unable to cope with stress",
+              "Have trouble falling asleep or staying asleep",
+              "Craving for salt or salty foods"
+            ]
+          },
+          {
+            "id": "q6",
+            "type": "text",
+            "text": "At what age did you begin menstruating (menarche)?",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q7",
+            "type": "checkbox",
+            "text": "Do you experience any of the following premenstrual symptoms regularly? (check all that apply)",
+            "required": false,
+            "options": ["Mood swings", "Cramps", "Bloating", "Breast tenderness", "Headache", "None", "Other"]
+          },
+          {
+            "id": "q8",
+            "type": "multiple_choice",
+            "text": "Menstruation History:",
+            "required": true,
+            "options": ["Regular", "Irregular"]
+          },
+          {
+            "id": "q9",
+            "type": "multiple_choice",
+            "text": "Do you experience any of the following:",
+            "required": true,
+            "options": ["Heavy periods", "Painful periods"]
+          },
+          {
+            "id": "q10",
+            "type": "checkbox",
+            "text": "Have you ever been diagnosed with any of the following? (check all that apply)",
+            "required": true,
+            "options": [
+              "Polycystic ovarian syndrome ( PCOS)",
+              "Endometriosis",
+              "Thyroid disorder",
+              "Premenstrual Dysphoric Disorder (PMDD)",
+              "None"
+            ]
+          },
+          {
+            "id": "q11",
+            "type": "text",
+            "text": "Have you ever taken hormonal drugs(e.g., pill, patch, implant, IUD)?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q12",
+            "type": "multiple_choice",
+            "text": "If yes, what was your primary reason for using it?",
+            "required": true,
+            "options": ["Contraception", "To regulate periods", "Acne treatment", "Pain relief", "Other"]
+          }
+        ]
+      },
+      "hormonal_post_menopausal": {
+        "formTitle": "Hormonal Health Questionnaire: Post-menopausal Women",
+        "questions": [
+          {
+            "id": "q1",
+            "type": "text",
+            "text": "Full Name",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q2",
+            "type": "text",
+            "text": "Client ID",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q3",
+            "type": "multiple_choice",
+            "text": "How would you describe your overall energy level?",
+            "required": true,
+            "options": ["Excellent", "Good", "Low", "Very low"]
+          },
+          {
+            "id": "q4",
+            "type": "text",
+            "text": "Have you experienced unexplained weight gain or loss?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q5",
+            "type": "checkbox",
+            "text": "Have you noticed any of the following in last 3 months:",
+            "required": true,
+            "options": [
+              "Hair thinning or hair loss",
+              "Dry skin or brittle nails",
+              "Cold hands & feet",
+              "Constipation or sluggish digestion",
+              "Fatigue especially in the morning",
+              "Difficulty losing weight even with diet & exercise",
+              "Feeling thirsty all the time",
+              "Passing urine more often",
+              "Need to eat more often to feel full",
+              "Irritable, shaky, or lightheaded when you skip meals",
+              "Increased belly fat",
+              "Energy crashes in the afternoon",
+              "Feel fatigue throughout the day",
+              "Feel anxious, overwhelmed, or unable to cope with stress",
+              "Trouble falling asleep or staying asleep",
+              "Craving for salt or salty foods",
+              "Muscle weakness"
+            ]
+          },
+          {
+            "id": "q6",
+            "type": "text",
+            "text": "Menstruation History: When did you have your last period",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q7",
+            "type": "checkbox",
+            "text": "Do you experience any of the following:",
+            "required": true,
+            "options": [
+              "Night sweats",
+              "Hot flushes",
+              "Frequent UTIs",
+              "Vaginal dryness",
+              "Brain fog or poor concentration",
+              "Difficulty to hold urine",
+              "Leaking of urine while coughing/sneezing"
+            ]
+          },
+          {
+            "id": "q8",
+            "type": "multiple_choice",
+            "text": "Have these symptoms impacted your daily life or well-being?",
+            "required": true,
+            "options": ["Yes- significantly", "Yes- somewhat", "No"]
+          },
+          {
+            "id": "q9",
+            "type": "multiple_choice",
+            "text": "Have you ever used hormone replacement therapy (HRT)?",
+            "required": false,
+            "options": ["Yes- Currently using", "Yes- in the past", "No", "Other"]
+          },
+          {
+            "id": "q10",
+            "type": "checkbox",
+            "text": "If you used HRT, what was the main reason? (check all that apply)",
+            "required": true,
+            "options": [
+              "Hot flushes/Night sweats",
+              "Bone health",
+              "Mood stabilization",
+              "Vaginal dryness",
+              "Doctor s recommendation",
+              "Other- please explain",
+              "Other"
+            ]
+          },
+          {
+            "id": "q11",
+            "type": "multiple_choice",
+            "text": "Did you experience any side effects or concerns while on HRT?",
+            "required": false,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q12",
+            "type": "multiple_choice",
+            "text": "Are you currently taking any supplements or alternative therapies for hormone balance (e.g., soy, black cohosh, etc.)?",
+            "required": false,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q13",
+            "type": "multiple_choice",
+            "text": "Have you had a bone density test (DEXA scan) in last 1 year ?",
+            "required": true,
+            "options": ["Yes- normal", "Yes- osteopenia", "Yes- osteoporosis", "No", "Not sure", "Other"]
+          },
+          {
+            "id": "q14",
+            "type": "checkbox",
+            "text": "Do you engage in any of the following regularly? (check all that apply)",
+            "required": true,
+            "options": [
+              "Weight-bearing exercise (walking, lifting)",
+              "Balanced diet (calcium/vitamin D)",
+              "Regular medical check-ups",
+              "Stress management techniques (yoga, meditation, etc.)",
+              "Other"
+            ]
+          },
+          {
+            "id": "q15",
+            "type": "multiple_choice",
+            "text": "How well-informed do you feel about post-menopausal health?",
+            "required": true,
+            "options": ["Very well-informed", "Somewhat informed", "Not informed at all"]
+          },
+          {
+            "id": "q16",
+            "type": "multiple_choice",
+            "text": "Would you like to see more education or resources for women in post-menopause?",
+            "required": true,
+            "options": ["Yes", "No", "Maybe"]
+          }
+        ]
+      },
+      "metabolic_journey": {
+        "formTitle": "Metabolic Journey Questionnaire",
+        "questions": [
+          {
+            "id": "q1",
+            "type": "text",
+            "text": "Full Name",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q2",
+            "type": "date",
+            "text": "Date of Birth",
+            "required": true,
+            "format": "MM/DD/YYYY"
+          },
+          {
+            "id": "q3",
+            "type": "text",
+            "text": "Email",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q4",
+            "type": "text",
+            "text": "Phone number",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q5",
+            "type": "text",
+            "text": "Occupation",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q6",
+            "type": "text",
+            "text": "Preferred Language",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q7",
+            "type": "multiple_choice",
+            "text": "Relationship Status",
+            "required": false,
+            "options": ["Single", "Married", "In a relationship"]
+          },
+          {
+            "id": "q8",
+            "type": "text",
+            "text": "Self-reported height (cm):",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q9",
+            "type": "text",
+            "text": "Self-reported weight (kg):",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q10",
+            "type": "text",
+            "text": "BMI (if known):",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q11",
+            "type": "text",
+            "text": "Recent changes in your weight over the past 6 months: please specify any gains or losses - write N/A if unsure",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q12",
+            "type": "text",
+            "text": "Self reported recent BP",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q13",
+            "type": "text",
+            "text": "Self reported recent heart rate",
+            "required": false,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q14",
+            "type": "checkbox",
+            "text": "Do you have any medical illness ?",
+            "required": true,
+            "options": [
+              "Type1 or Type2 DM",
+              "Hypothyroidism/Hyperthyroidism",
+              "High BP",
+              "High Cholestrol",
+              "Fatty Liver",
+              "Any hormonal issue",
+              "Any other",
+              "Other"
+            ]
+          },
+          {
+            "id": "q15",
+            "type": "text",
+            "text": "Have you had any surgeries ? Please list with dates -",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q16",
+            "type": "checkbox",
+            "text": "Family Medical History - Has anyone in your family (siblings, parents or grandparents) been diagnosed with -",
+            "required": true,
+            "options": [
+              "Obesity",
+              "Diabetes Mellitus",
+              "High BP",
+              "Heart Condition",
+              "Cancer",
+              "Stroke/ Other Neurological Conditions",
+              "Autoimmune Disorder",
+              "Other significant condition"
+            ]
+          },
+          {
+            "id": "q17",
+            "type": "text",
+            "text": "Are you on any regular medication?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q18",
+            "type": "text",
+            "text": "Any history of allergy to food, drug or any chemical?",
+            "required": true,
+            "placeholder": "Your answer"
+          }
+        ]
+      },
+      "hormonal_perimenopausal": {
+        "formTitle": "Hormonal Health Questionnaire: Perimenopausal Women",
+        "questions": [
+          {
+            "id": "q1",
+            "type": "text",
+            "text": "Full Name",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q2",
+            "type": "text",
+            "text": "Client ID",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q3",
+            "type": "multiple_choice",
+            "text": "How would you describe your overall energy level?",
+            "required": true,
+            "options": ["Excellent", "Good", "Low", "Very low"]
+          },
+          {
+            "id": "q4",
+            "type": "text",
+            "text": "Have you experienced unexplained weight gain or loss?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q5",
+            "type": "checkbox",
+            "text": "Have you noticed any of the following in last 3 months:",
+            "required": true,
+            "options": [
+              "Hair thinning or hair loss",
+              "Dry skin or brittle nails",
+              "Cold hands & feet",
+              "Constipation or sluggish digestion",
+              "Fatigue especially in the morning",
+              "Difficulty losing weight even with diet & exercise",
+              "Feeling thirsty all the time",
+              "Passing urine more often",
+              "Need to eat more often to feel full",
+              "Irritable, shaky, or lightheaded when you skip meals",
+              "Increased belly fat",
+              "Energy crashes in the afternoon",
+              "Feel fatigue throughout the day",
+              "Feel anxious, overwhelmed, or unable to cope with stress",
+              "Trouble falling asleep or staying asleep",
+              "Craving for salt or salty foods"
+            ]
+          },
+          {
+            "id": "q6",
+            "type": "multiple_choice",
+            "text": "Menstruation History:",
+            "required": true,
+            "options": ["Menstruating regularly", "Menstruating but irregular periods"]
+          },
+          {
+            "id": "q7",
+            "type": "checkbox",
+            "text": "Have you noticed changes in your menstrual cycle? (check all that apply)",
+            "required": false,
+            "options": ["Shorter cycles", "Longer cycles", "Heavier Bleeding", "Lighter bleeding", "Missed periods", "Other"]
+          },
+          {
+            "id": "q8",
+            "type": "checkbox",
+            "text": "Do you feel any of the following:experiences",
+            "required": true,
+            "options": [
+              "Night sweats affecting",
+              "Hot flushes",
+              "Sleep disturbances",
+              "Frequent UTIs",
+              "Vaginal dryness",
+              "Decreased sexual desire",
+              "Mood swings or irritability",
+              "Brain fog or poor concentration",
+              "Difficulty to hold urine",
+              "Leaking of urine while coughing/sneezing",
+              "Musculoskeletal discomfort /stiffness/pain",
+              "Severe headache/migraine",
+              "Other"
+            ]
+          },
+          {
+            "id": "q9",
+            "type": "multiple_choice",
+            "text": "How would you rate the impact of these symptoms on your quality of life?",
+            "required": false,
+            "options": ["Severe", "Moderate", "Mild", "No impact", "Other"]
+          },
+          {
+            "id": "q10",
+            "type": "multiple_choice",
+            "text": "Are you currently using any treatment for your symptoms?",
+            "required": true,
+            "options": ["Yes – medical (HRT, pills, etc.)", "Yes – natural or alternative remedies", "No", "Estrogens cream"]
+          },
+          {
+            "id": "q11",
+            "type": "multiple_choice",
+            "text": "Do you actively track your menstrual cycle or symptoms?",
+            "required": false,
+            "options": ["Yes – with an app or journal", "Occasionally", "No", "Other"]
+          },
+          {
+            "id": "q12",
+            "type": "multiple_choice",
+            "text": "Are you aware that perimenopause can last several years before menopause?",
+            "required": true,
+            "options": ["Yes", "No"]
+          },
+          {
+            "id": "q13",
+            "type": "multiple_choice",
+            "text": "Would you like access to more resources or education on managing perimenopause?",
+            "required": true,
+            "options": ["Yes", "No", "Maybe"]
+          }
+        ]
+      },
+      "hormonal_men": {
+        "formTitle": "Hormone Health Questionnaire: Men",
+        "questions": [
+          {
+            "id": "q1",
+            "type": "text",
+            "text": "Full Name",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q2",
+            "type": "text",
+            "text": "Client ID",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q3",
+            "type": "multiple_choice",
+            "text": "How would you describe your overall energy level in last 3 months-",
+            "required": true,
+            "options": ["Excellent", "Good", "Low", "Very low"]
+          },
+          {
+            "id": "q4",
+            "type": "text",
+            "text": "Have you noted unexplained weight gain or loss?",
+            "required": true,
+            "placeholder": "Your answer"
+          },
+          {
+            "id": "q5",
+            "type": "checkbox",
+            "text": "Have you experienced any of the following in last 3 months:",
+            "required": true,
+            "options": [
+              "Hair thinning or hair loss",
+              "Dry skin or brittle nails",
+              "Cold hands & feet",
+              "Constipation or sluggish digestion",
+              "Difficulty losing weight even with diet & exercise",
+              "Feeling thirsty most of the time",
+              "Passing urine more often",
+              "Needing to eat more to feel full",
+              "Irritable, shaky or lightheaded when you skip meals",
+              "Increased belly fat",
+              "Energy crashes in the afternoon",
+              "Feeling fatigued throughout the day",
+              "Trouble falling asleep or staying asleep",
+              "Feeling anxious, overwhelmed, or unable to cope with stress"
+            ]
+          },
+          {
+            "id": "q6",
+            "type": "checkbox",
+            "text": "Have you noticed any recent changes as mentioned below-",
+            "required": true,
+            "options": [
+              "Loss of muscle mass or strength",
+              "Low stamina",
+              "Feeling low",
+              "Lack of motivation",
+              "Reduced sexual interest",
+              "Other"
+            ]
+          }
+        ]
+      }
+    },
+    "byType": {
+      "text": [
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Patient ID",
+          "required": true
+        },
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Are there any specific foods that trigger symptoms like bloating, gas, diarrhea, or constipation?",
+          "required": true
+        },
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Are you currently taking any medications for your digestive or gut-related concerns? If yes, please list them.",
+          "required": false
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Full Name",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Client ID",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Have you experienced unexplained weight gain or loss?",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "At what age did you begin menstruating (menarche)?",
+          "required": false
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Have you ever taken hormonal drugs(e.g., pill, patch, implant, IUD)?",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Full Name",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Client ID",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Have you experienced unexplained weight gain or loss?",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Menstruation History: When did you have your last period",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Full Name",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Email",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Phone number",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Occupation",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Preferred Language",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Self-reported height (cm):",
+          "required": false
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Self-reported weight (kg):",
+          "required": false
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "BMI (if known):",
+          "required": false
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Recent changes in your weight over the past 6 months: please specify any gains or losses - write N/A if unsure",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Self reported recent BP",
+          "required": false
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Self reported recent heart rate",
+          "required": false
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Have you had any surgeries ? Please list with dates -",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Are you on any regular medication?",
+          "required": true
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Any history of allergy to food, drug or any chemical?",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "Full Name",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "Client ID",
+          "required": true
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "Have you experienced unexplained weight gain or loss?",
+          "required": true
+        },
+        {
+          "form": "Hormone Health Questionnaire: Men",
+          "question": "Full Name",
+          "required": true
+        },
+        {
+          "form": "Hormone Health Questionnaire: Men",
+          "question": "Client ID",
+          "required": true
+        },
+        {
+          "form": "Hormone Health Questionnaire: Men",
+          "question": "Have you noted unexplained weight gain or loss?",
+          "required": true
+        }
+      ],
+      "multiple_choice": [
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Have you experienced significant weight loss over past 1 or 3 months",
+          "options": ["Yes", "No"]
+        },
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "How would you describe your appetite?",
+          "options": ["Poor", "Normal", "Increased", "Varies"]
+        },
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "How often do you pass stool?",
+          "options": ["Once a day", "More than once", "Alternate days", "Less often"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "How would you describe your overall energy level?",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Menstruation History:",
+          "options": ["Regular", "Irregular"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "How would you describe your overall energy level?",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Have these symptoms impacted your daily life or well-being?",
+          "options": ["Yes- significantly", "Yes- somewhat", "No"]
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Relationship Status",
+          "options": ["Single", "Married", "In a relationship"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "How would you describe your overall energy level?",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "Menstruation History:",
+          "options": ["Menstruating regularly", "Menstruating but irregular periods"]
+        },
+        {
+          "form": "Hormone Health Questionnaire: Men",
+          "question": "How would you describe your overall energy level in last 3 months-",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        }
+      ],
+      "checkbox": [
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Do you notice any of these symptoms after eating foods?",
+          "options": ["Fatigue", "Skin itching", "Joint pain", "Mood swings", "Brain fog (struggle to focus or feel mentally tired even after resting)", "Acid reflux (acidity/ heartburn)"]
+        },
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Are you using any supplements to support your gut health? (Check all that apply)",
+          "options": [
+            "Probiotics",
+            "Prebiotics",
+            "Digestive enzymes",
+            "Ayurvedic/herbal supplements (e.g., Triphala, Kutki)",
+            "L-glutamine",
+            "Fiber supplements (e.g., psyllium husk, isabgol, inulin)",
+            "Activated charcoal",
+            "Apple cider vinegar",
+            "Zinc carnosine",
+            "Multivitamins",
+            "No supplements currently",
+            "Other"
+          ]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Have you observed any noticeable change in last 3 months-",
+          "options": [
+            "Hair thinning or hair loss",
+            "Dry skin or brittle nails",
+            "Cold hands & feet",
+            "Constipation or sluggish digestion",
+            "Fatigue especially in the morning",
+            "Difficulty losing weight even with diet & exercise",
+            "Feeling thirsty all the time",
+            "Passing urine more often",
+            "Need to eat more often to feel full",
+            "Irritable, shaky, or lightheaded when you skip meals",
+            "Increased belly fat",
+            "Energy crashes in the afternoon",
+            "Feel fatigue throughout the day",
+            "Feel anxious, overwhelmed, or unable to cope with stress",
+            "Have trouble falling asleep or staying asleep",
+            "Craving for salt or salty foods"
+          ]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Have you noticed any of the following in last 3 months:",
+          "options": [
+            "Hair thinning or hair loss",
+            "Dry skin or brittle nails",
+            "Cold hands & feet",
+            "Constipation or sluggish digestion",
+            "Fatigue especially in the morning",
+            "Difficulty losing weight even with diet & exercise",
+            "Feeling thirsty all the time",
+            "Passing urine more often",
+            "Need to eat more often to feel full",
+            "Irritable, shaky, or lightheaded when you skip meals",
+            "Increased belly fat",
+            "Energy crashes in the afternoon",
+            "Feel fatigue throughout the day",
+            "Feel anxious, overwhelmed, or unable to cope with stress",
+            "Trouble falling asleep or staying asleep",
+            "Craving for salt or salty foods",
+            "Muscle weakness"
+          ]
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Do you have any medical illness ?",
+          "options": [
+            "Type1 or Type2 DM",
+            "Hypothyroidism/Hyperthyroidism",
+            "High BP",
+            "High Cholestrol",
+            "Fatty Liver",
+            "Any hormonal issue",
+            "Any other",
+            "Other"
+          ]
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Family Medical History - Has anyone in your family (siblings, parents or grandparents) been diagnosed with -",
+          "options": [
+            "Obesity",
+            "Diabetes Mellitus",
+            "High BP",
+            "Heart Condition",
+            "Cancer",
+            "Stroke/ Other Neurological Conditions",
+            "Autoimmune Disorder",
+            "Other significant condition"
+          ]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "Have you noticed any of the following in last 3 months:",
+          "options": [
+            "Hair thinning or hair loss",
+            "Dry skin or brittle nails",
+            "Cold hands & feet",
+            "Constipation or sluggish digestion",
+            "Fatigue especially in the morning",
+            "Difficulty losing weight even with diet & exercise",
+            "Feeling thirsty all the time",
+            "Passing urine more often",
+            "Need to eat more often to feel full",
+            "Irritable, shaky, or lightheaded when you skip meals",
+            "Increased belly fat",
+            "Energy crashes in the afternoon",
+            "Feel fatigue throughout the day",
+            "Feel anxious, overwhelmed, or unable to cope with stress",
+            "Trouble falling asleep or staying asleep",
+            "Craving for salt or salty foods"
+          ]
+        },
+        {
+          "form": "Hormone Health Questionnaire: Men",
+          "question": "Have you experienced any of the following in last 3 months:",
+          "options": [
+            "Hair thinning or hair loss",
+            "Dry skin or brittle nails",
+            "Cold hands & feet",
+            "Constipation or sluggish digestion",
+            "Difficulty losing weight even with diet & exercise",
+            "Feeling thirsty most of the time",
+            "Passing urine more often",
+            "Needing to eat more to feel full",
+            "Irritable, shaky or lightheaded when you skip meals",
+            "Increased belly fat",
+            "Energy crashes in the afternoon",
+            "Feeling fatigued throughout the day",
+            "Trouble falling asleep or staying asleep",
+            "Feeling anxious, overwhelmed, or unable to cope with stress"
+          ]
+        }
+      ]
+    },
+    "byCategory": {
+      "personal_information": [
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Patient ID"
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Full Name"
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Client ID"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Full Name"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Date of Birth"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Email"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Phone number"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Occupation"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Preferred Language"
+        }
+      ],
+      "energy_levels": [
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "How would you describe your overall energy level?",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "How would you describe your overall energy level?",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Perimenopausal Women",
+          "question": "How would you describe your overall energy level?",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        },
+        {
+          "form": "Hormone Health Questionnaire: Men",
+          "question": "How would you describe your overall energy level in last 3 months-",
+          "options": ["Excellent", "Good", "Low", "Very low"]
+        }
+      ],
+      "weight_changes": [
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "Have you experienced significant weight loss over past 1 or 3 months"
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Women",
+          "question": "Have you experienced unexplained weight gain or loss?"
+        },
+        {
+          "form": "Metabolic Journey Questionnaire",
+          "question": "Recent changes in your weight over the past 6 months: please specify any gains or losses - write N/A if unsure"
+        }
+      ],
+      "symptoms": [
+        {
+          "form": "Gut Wellness Questionnaire",
+          "question": "How frequently do you experience the following symptoms?",
+          "symptoms": ["Bloating", "Gas", "Acid reflux", "Nausea", "Undigested food in stool"]
+        },
+        {
+          "form": "Hormonal Health Questionnaire: Post-menopausal Women",
+          "question": "Do you experience any of the following:",
+          "symptoms": [
+            "Night sweats",
+            "Hot flushes",
+            "Frequent UTIs",
+            "Vaginal dryness",
+            "Brain fog or poor concentration",
+            "Difficulty to hold urine",
+            "Leaking of urine while coughing/sneezing"
+          ]
+        }
+      ]
+    }
+  },
+  "commonOptions": {
+    "energyLevels": ["Excellent", "Good", "Low", "Very low"],
+    "yesNo": ["Yes", "No"],
+    "yesNoSometimes": ["Yes", "No", "Sometimes"],
+    "frequency": ["Daily", "Weekly", "Occasionally", "Never"],
+    "stoolFrequency": ["Once a day", "More than once", "Alternate days", "Less often"],
+    "relationshipStatus": ["Single", "Married", "In a relationship"],
+    "menstruationHistory": ["Regular", "Irregular", "Menstruating regularly", "Menstruating but irregular periods"],
+    "commonSymptoms": [
+      "Hair thinning or hair loss",
+      "Dry skin or brittle nails",
+      "Cold hands & feet",
+      "Constipation or sluggish digestion",
+      "Fatigue especially in the morning",
+      "Difficulty losing weight even with diet & exercise",
+      "Feeling thirsty all the time",
+      "Passing urine more often",
+      "Need to eat more often to feel full",
+      "Irritable, shaky, or lightheaded when you skip meals",
+      "Increased belly fat",
+      "Energy crashes in the afternoon",
+      "Feel fatigue throughout the day",
+      "Feel anxious, overwhelmed, or unable to cope with stress",
+      "Trouble falling asleep or staying asleep",
+      "Craving for salt or salty foods"
+    ]
+  },
+  "crossReferences": {
+    "sharedQuestions": {
+      "Full Name": [
+        "Hormonal Health Questionnaire: Women",
+        "Hormonal Health Questionnaire: Post-menopausal Women",
+        "Metabolic Journey Questionnaire",
+        "Hormonal Health Questionnaire: Perimenopausal Women",
+        "Hormone Health Questionnaire: Men"
+      ],
+      "Client ID": [
+        "Hormonal Health Questionnaire: Women",
+        "Hormonal Health Questionnaire: Post-menopausal Women",
+        "Hormonal Health Questionnaire: Perimenopausal Women",
+        "Hormone Health Questionnaire: Men"
+      ],
+      "Energy Level": [
+        "Hormonal Health Questionnaire: Women",
+        "Hormonal Health Questionnaire: Post-menopausal Women",
+        "Hormonal Health Questionnaire: Perimenopausal Women",
+        "Hormone Health Questionnaire: Men"
+      ],
+      "Weight Changes": [
+        "Gut Wellness Questionnaire",
+        "Hormonal Health Questionnaire: Women",
+        "Hormonal Health Questionnaire: Post-menopausal Women",
+        "Hormonal Health Questionnaire: Perimenopausal Women",
+        "Hormone Health Questionnaire: Men",
+        "Metabolic Journey Questionnaire"
+      ]
+    }
+  }
+}
+
