@@ -24,3 +24,4 @@ if __name__ == "__main__":
     print(f"\n\nText saved to pdf_text_sample.txt")
 
 
+
